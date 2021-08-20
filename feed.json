@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2021/08/17/kudos-to-apple.html",
+				
+				"content_html": "<p>Kudos to Apple for <a href=\"https://www.macrumors.com/2021/08/17/apple-safari-design-changes-ios-15-beta-6/\">reversing course</a> on requiring the bottom-aligned address bar for Safari 15 on iOS. Giving the user choice here was the right call — a win-win for everyone.</p>\n",
+				"content_text": "Kudos to Apple for [reversing course](https://www.macrumors.com/2021/08/17/apple-safari-design-changes-ios-15-beta-6/) on requiring the bottom-aligned address bar for Safari 15 on iOS. Giving the user choice here was the right call — a win-win for everyone.\n",
+				"date_published": "2021-08-17T19:35:57-04:00",
+				"url": "https://jaredwsmith.com/2021/08/17/kudos-to-apple.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2021/08/16/whats-on-my.html",
+				"title": "What’s on my mind, volume 1, episode 1",
+				"content_html": "<p>What’s on my mind to start the week:</p>\n\n<ul>\n<li>⚾️ Good for Reiss Knehr, getting his first major league win in a bullpen game for the Padres. I like his mettle.</li>\n<li>⚾️ Thank goodness Tatis is back. San Diego desperately needs his bat — and his swagger. So far, so good in right field. It’s a nice luxury to have Jake Cronenworth, a natural shortstop, be able to slide into that position and not skip a beat. Also, how good does that Adam Frazier trade look now?</li>\n<li>⚾️ The Padres just cannot be dropping series to the likes of the Diamondbacks if they expect to make it very far into October (or even the playoffs at all). The Dodgers and Giants have much better records against the teams that they should beat.</li>\n<li>⌚️ Where is watchOS 8 public beta 5? Is Apple just going to skip it and seed us with beta 6 this week? (Presuming, of course, we go to weekly releases starting this week.)</li>\n<li>🖥 I really, really hope the external monitor struggles in Monterey beta 5 are resolved soon. The new release botched the black point on my new 4K LG monitor, and now <em>both</em> the USB-C and HDMI monitors kick on briefly at random intervals. (Previously, only the USB-C/DisplayPort monitor did this.)</li>\n<li>🤔 Why exactly <em>do</em> I torture myself every summer with betas?</li>\n</ul>\n\n<p>Be good to each other.</p>\n",
+				"content_text": "What’s on my mind to start the week:\n\n- ⚾️ Good for Reiss Knehr, getting his first major league win in a bullpen game for the Padres. I like his mettle.\n- ⚾️ Thank goodness Tatis is back. San Diego desperately needs his bat — and his swagger. So far, so good in right field. It’s a nice luxury to have Jake Cronenworth, a natural shortstop, be able to slide into that position and not skip a beat. Also, how good does that Adam Frazier trade look now?\n- ⚾️ The Padres just cannot be dropping series to the likes of the Diamondbacks if they expect to make it very far into October (or even the playoffs at all). The Dodgers and Giants have much better records against the teams that they should beat.\n- ⌚️ Where is watchOS 8 public beta 5? Is Apple just going to skip it and seed us with beta 6 this week? (Presuming, of course, we go to weekly releases starting this week.)\n- 🖥 I really, really hope the external monitor struggles in Monterey beta 5 are resolved soon. The new release botched the black point on my new 4K LG monitor, and now _both_ the USB-C and HDMI monitors kick on briefly at random intervals. (Previously, only the USB-C/DisplayPort monitor did this.)\n- 🤔 Why exactly _do_ I torture myself every summer with betas?\n\nBe good to each other.\n",
+				"date_published": "2021-08-16T08:57:27-04:00",
+				"url": "https://jaredwsmith.com/2021/08/16/whats-on-my.html"
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2021/08/13/album-of-the.html",
+				"title": "Album of the week: Shulamith by POLIÇA",
+				"content_html": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" height=\"450\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/us/album/shulamith/682621021\"></iframe>\n\n<p>Favorite tunes: Vegas, Tiff, and Matty. Love Channy Leaneagh&rsquo;s vocals and the use of effects to really make them flow in as another instrument in the ensemble.</p>\n",
+				"content_text": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" height=\"450\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/us/album/shulamith/682621021\"></iframe>\n\nFavorite tunes: Vegas, Tiff, and Matty. Love Channy Leaneagh's vocals and the use of effects to really make them flow in as another instrument in the ensemble.\n",
+				"date_published": "2021-08-13T20:53:00-04:00",
+				"url": "https://jaredwsmith.com/2021/08/13/album-of-the.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/12/so-far-so.html",
 				
 				"content_html": "<p>So far, so good with the fifth betas of iOS and iPadOS 15. Refinements are definitely starting, but there are still plenty of rough edges, which is to be expected at this stage. I’ve come to really enjoy the notification summaries — I added a midday summary to my slate, for a total of three — and find Focus modes extremely helpful. Syncing Focus state across devices solved a problem I didn’t realize I had until I added the iPad to the mix back in June, when my phone would be on Do Not Disturb but I would forget to set the iPad.</p>\n\n<p>I’m running the dev seed of Monterey on my 2015 MBP, and had a bit of a scare last night when I went back to it and it was powered off. I fired it back up, but it promptly went into a reboot loop every time I tried to log in. Shutting the machine down and powering back up took care of it, and the installation finished successfully. I’ve not spent much time with it since then, though. Here’s hoping the public beta goes on a little smoother today on the M1.</p>\n\n<p>Hoping for a watchOS 8 public beta today as well. Battery struggles are very, very real on beta 4 on my Series 4, so here’s hoping those rough edges start to smooth out on beta 5.</p>\n",
@@ -20,9 +46,9 @@
 				
 				"content_html": "<p>Hybrid Black Halo box set acquired.</p>\n\n<p>I had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.</p>\n\n<p><img src=\"uploads/2021/d92fb9cf30.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "Hybrid Black Halo box set acquired.\n\nI had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.\n\n<img src=\"uploads/2021/d92fb9cf30.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2021-08-09T19:40:44-04:00",
+				"date_published": "2021-08-09T19:40:00-04:00",
 				"url": "https://jaredwsmith.com/2021/08/09/hybrid-black-halo.html",
-				"tags": ["280"]
+				"tags": ["280","Music"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/08/the-monitor-update.html",
