@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2021/08/29/ida-is-getting.html",
+				
+				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n\n<p><img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" /></p>\n",
+				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
+				"date_published": "2021-08-29T00:28:11-04:00",
+				"url": "https://jaredwsmith.com/2021/08/29/ida-is-getting.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2021/08/27/dont-like-ida.html",
+				
+				"content_html": "<p>Don’t like Ida for my LA/MS/AL Gulf Coast peeps. Please be getting ready now for a major hurricane strike with peak wind impacts in Louisiana — perhaps in the New Orleans metro area — and flooding impacts spreading much further out from the center of the storm.</p>\n",
+				"content_text": "Don’t like Ida for my LA/MS/AL Gulf Coast peeps. Please be getting ready now for a major hurricane strike with peak wind impacts in Louisiana — perhaps in the New Orleans metro area — and flooding impacts spreading much further out from the center of the storm.\n",
+				"date_published": "2021-08-27T08:30:12-04:00",
+				"url": "https://jaredwsmith.com/2021/08/27/dont-like-ida.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2021/08/21/i-could-do.html",
+				
+				"content_html": "<p>I could do the easy thing, which is to just stick a <code>local</code> in the path to the PHP interpreter in my LDM ingest script, or I could do the hard thing, which is to Dockerize all of it.</p>\n\n<p>Take a wild guess at what I&rsquo;m doing.</p>\n",
+				"content_text": "I could do the easy thing, which is to just stick a `local` in the path to the PHP interpreter in my LDM ingest script, or I could do the hard thing, which is to Dockerize all of it.\n\nTake a wild guess at what I'm doing.\n",
+				"date_published": "2021-08-21T10:12:31-04:00",
+				"url": "https://jaredwsmith.com/2021/08/21/i-could-do.html",
+				"tags": ["Tech","280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2021/08/20/wild-friday-night.html",
+				
+				"content_html": "<p>Wild Friday night over here doing a deep dive into HTML semantics.</p>\n\n<p>Pro tip: If you list “expert in HTML” on your résumé and I’m interviewing you, I’m gonna test that.</p>\n",
+				"content_text": "Wild Friday night over here doing a deep dive into HTML semantics.\n\nPro tip: If you list “expert in HTML” on your résumé and I’m interviewing you, I’m gonna test that.\n",
+				"date_published": "2021-08-20T18:39:37-04:00",
+				"url": "https://jaredwsmith.com/2021/08/20/wild-friday-night.html",
+				"tags": ["Tech","280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/17/kudos-to-apple.html",
 				
 				"content_html": "<p>Kudos to Apple for <a href=\"https://www.macrumors.com/2021/08/17/apple-safari-design-changes-ios-15-beta-6/\">reversing course</a> on requiring the bottom-aligned address bar for Safari 15 on iOS. Giving the user choice here was the right call — a win-win for everyone.</p>\n",
