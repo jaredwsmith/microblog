@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2021/10/19/the-overlapping-notification.html",
+				
+				"content_html": "<p>The <a href=\"https://jaredwsmith.com/2021/10/11/i-hope-that.html\">overlapping notification bug</a> was indeed fixed in iOS 15.1, and thank goodness for that. What an annoyance. I’m still surprised it made it to the final release.</p>\n",
+				"content_text": "The [overlapping notification bug](https://jaredwsmith.com/2021/10/11/i-hope-that.html) was indeed fixed in iOS 15.1, and thank goodness for that. What an annoyance. I’m still surprised it made it to the final release.\n",
+				"date_published": "2021-10-19T12:51:40-04:00",
+				"url": "https://jaredwsmith.com/2021/10/19/the-overlapping-notification.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2021/10/11/i-hope-that.html",
 				
 				"content_html": "<p>I hope that someone fixed the notification overlap bug with Summaries in iOS 15.0.2 and just didn’t say anything. That is beyond annoying and makes one of the tentpole features of 15 very difficult to use.</p>\n",
@@ -53,8 +62,8 @@
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/29/ida-is-getting.html",
 				
-				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n\n<p><img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" /></p>\n",
-				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
+				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n\n<p><img src=\"https://jaredwsmith.com/uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" /></p>\n",
+				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"https://jaredwsmith.com/uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
 				"date_published": "2021-08-29T00:28:11-04:00",
 				"url": "https://jaredwsmith.com/2021/08/29/ida-is-getting.html",
 				"tags": ["280"]
