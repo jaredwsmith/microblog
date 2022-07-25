@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2022/07/24/betas-this-week.html",
+				"title": "Betas 4 this week?",
+				"content_html": "<p>Should hopefully see Beta 4 of all of the new Apple OS releases this week. Beta 3 hasn’t really been that bad. Some app crashes and restarts here and there on the phone, but overall, nothing too out of the ordinary in a beta cycle. iPad has been in good shape, with the occasional app crash and a few bugs in Stage Manager, but again, it’s been pretty solid all things considered. (Ventura has been really good so far, too, though it could still use some performance tuning and tweaks to Stage Manager.)</p>\n\n<p>Thinking beta 4 is probably going to be one of the last times we see big changes in spots before turning focus to polish in August. If Apple is going to make feature cuts for 16.0, we’ll probably see that in the next 2-3 weeks.</p>\n",
+				"content_text": "Should hopefully see Beta 4 of all of the new Apple OS releases this week. Beta 3 hasn’t really been that bad. Some app crashes and restarts here and there on the phone, but overall, nothing too out of the ordinary in a beta cycle. iPad has been in good shape, with the occasional app crash and a few bugs in Stage Manager, but again, it’s been pretty solid all things considered. (Ventura has been really good so far, too, though it could still use some performance tuning and tweaks to Stage Manager.)\n\nThinking beta 4 is probably going to be one of the last times we see big changes in spots before turning focus to polish in August. If Apple is going to make feature cuts for 16.0, we’ll probably see that in the next 2-3 weeks.\n",
+				"date_published": "2022-07-24T22:50:25-04:00",
+				"url": "https://jaredwsmith.com/2022/07/24/betas-this-week.html"
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2022/07/16/went-with-the.html",
+				
+				"content_html": "<p>Went with the MacBook Pro 14” with the M1 Pro over the M2 Air. For the money I would have spent on the configuration I wanted for the Air, I’d be out several ports and a card reader, not to mention the brilliant ProMotion refresh rate. What a difference from my 2015 13” MBP!</p>\n",
+				"content_text": "<p>Went with the MacBook Pro 14” with the M1 Pro over the M2 Air. For the money I would have spent on the configuration I wanted for the Air, I’d be out several ports and a card reader, not to mention the brilliant ProMotion refresh rate. What a difference from my 2015 13” MBP!</p>\n",
+				"date_published": "2022-07-16T18:08:52-04:00",
+				"url": "https://jaredwsmith.com/2022/07/16/went-with-the.html",
+				"tags": ["Tech","280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2021/10/19/the-overlapping-notification.html",
 				
 				"content_html": "<p>The <a href=\"https://jaredwsmith.com/2021/10/11/i-hope-that.html\">overlapping notification bug</a> was indeed fixed in iOS 15.1, and thank goodness for that. What an annoyance. I’m still surprised it made it to the final release.</p>\n",
