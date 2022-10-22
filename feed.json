@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2022/10/22/tidying-things-up.html",
+				
+				"content_html": "<p>Tidying things up over here on the ol&rsquo; micro-dot-blog. <a href=\"https://twitter.com/cbouzy/status/1583436603837796353?s=20&t=oabqxYB6eckAgeEJcGLToA\">Can&rsquo;t imagine why</a>.</p>\n",
+				"content_text": "Tidying things up over here on the ol' micro-dot-blog. <a href=\"https://twitter.com/cbouzy/status/1583436603837796353?s=20&t=oabqxYB6eckAgeEJcGLToA\">Can't imagine why</a>.\n",
+				"date_published": "2022-10-22T12:13:10-04:00",
+				"url": "https://jaredwsmith.com/2022/10/22/tidying-things-up.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2022/07/24/betas-this-week.html",
 				"title": "Betas 4 this week?",
 				"content_html": "<p>Should hopefully see Beta 4 of all of the new Apple OS releases this week. Beta 3 hasn’t really been that bad. Some app crashes and restarts here and there on the phone, but overall, nothing too out of the ordinary in a beta cycle. iPad has been in good shape, with the occasional app crash and a few bugs in Stage Manager, but again, it’s been pretty solid all things considered. (Ventura has been really good so far, too, though it could still use some performance tuning and tweaks to Stage Manager.)</p>\n\n<p>Thinking beta 4 is probably going to be one of the last times we see big changes in spots before turning focus to polish in August. If Apple is going to make feature cuts for 16.0, we’ll probably see that in the next 2-3 weeks.</p>\n",
@@ -79,8 +88,8 @@
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/29/ida-is-getting.html",
 				
-				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n\n<p><img src=\"https://jaredwsmith.com/uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" /></p>\n",
-				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"https://jaredwsmith.com/uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
+				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n\n<p><img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" /></p>\n",
+				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
 				"date_published": "2021-08-29T00:28:11-04:00",
 				"url": "https://jaredwsmith.com/2021/08/29/ida-is-getting.html",
 				"tags": ["280"]
