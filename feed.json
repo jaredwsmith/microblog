@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2022/10/27/platforms-come-and.html",
+				
+				"content_html": "<p>Platforms come and go, but standards are (mostly) forever.</p>\n",
+				"content_text": "Platforms come and go, but standards are (mostly) forever.\n",
+				"date_published": "2022-10-27T22:28:39-04:00",
+				"url": "https://jaredwsmith.com/2022/10/27/platforms-come-and.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2022/10/24/im-surprised-apple.html",
+				
+				"content_html": "<p>I’m surprised Apple didn’t delay Stage Manager until spring. My only guess is that they felt they had to get it in peoples’ hands and iterate from there. <a href=\"https://www.macstories.net/stories/stage-manager-ipados-16-1-review/\">Vittici was pretty pointed</a>, but constructive, in his criticisms.</p>\n",
+				"content_text": "I’m surprised Apple didn’t delay Stage Manager until spring. My only guess is that they felt they had to get it in peoples’ hands and iterate from there. [Vittici was pretty pointed](https://www.macstories.net/stories/stage-manager-ipados-16-1-review/), but constructive, in his criticisms.\n",
+				"date_published": "2022-10-24T22:33:45-04:00",
+				"url": "https://jaredwsmith.com/2022/10/24/im-surprised-apple.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2022/10/22/tidying-things-up.html",
 				
 				"content_html": "<p>Tidying things up over here on the ol&rsquo; micro-dot-blog. <a href=\"https://twitter.com/cbouzy/status/1583436603837796353?s=20&t=oabqxYB6eckAgeEJcGLToA\">Can&rsquo;t imagine why</a>.</p>\n",
@@ -88,8 +106,8 @@
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/29/ida-is-getting.html",
 				
-				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n\n<p><img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" /></p>\n",
-				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
+				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n\n<p><img src=\"https://jaredwsmith.com/uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" /></p>\n",
+				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"https://jaredwsmith.com/uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
 				"date_published": "2021-08-29T00:28:11-04:00",
 				"url": "https://jaredwsmith.com/2021/08/29/ida-is-getting.html",
 				"tags": ["280"]
