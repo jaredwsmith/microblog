@@ -7,11 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2022/11/18/i-rescued-my.html",
+				
+				"content_html": "<p>I rescued my Tumblr account and unearthed this gem. A very young Charlie Brown, think he&rsquo;s about a year and a half here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I rescued my Tumblr account and unearthed this gem. A very young Charlie Brown, think he's about a year and a half here.\n\n<img src=\"uploads/2022/e201c74e78.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
+				"date_published": "2022-11-18T14:19:08-05:00",
+				"url": "https://jaredwsmith.com/2022/11/18/i-rescued-my.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2022/10/30/so-the-elon.html",
+				
+				"content_html": "<p>So the Elon thing on the bird app seems to be going well. 😬</p>\n",
+				"content_text": "So the Elon thing on the bird app seems to be going well. 😬\n",
+				"date_published": "2022-10-30T09:09:36-05:00",
+				"url": "https://jaredwsmith.com/2022/10/30/so-the-elon.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2022/10/29/the-first-production.html",
+				
+				"content_html": "<p>The first production commit to chswx.com in almost two years is a CSS fix for headers running into images. Look, it&rsquo;s something. More to come.</p>\n",
+				"content_text": "The first production commit to chswx.com in almost two years is a CSS fix for headers running into images. Look, it's something. More to come.\n",
+				"date_published": "2022-10-29T17:49:47-05:00",
+				"url": "https://jaredwsmith.com/2022/10/29/the-first-production.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2022/10/29/fediverse-offers-some.html",
+				
+				"content_html": "<p>Fediverse offers some interesting possibilities for syndicating <a href=\"https://micro.blog/chswx\">@chswx</a> content, such as alerts. I could theoretically set up my own server and then put certain classes of alerts into their own channels along with a catch-all. 🤔</p>\n",
+				"content_text": "Fediverse offers some interesting possibilities for syndicating [@chswx](https://micro.blog/chswx) content, such as alerts. I could theoretically set up my own server and then put certain classes of alerts into their own channels along with a catch-all. 🤔\n",
+				"date_published": "2022-10-29T10:01:43-05:00",
+				"url": "https://jaredwsmith.com/2022/10/29/fediverse-offers-some.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2022/10/27/platforms-come-and.html",
 				
 				"content_html": "<p>Platforms come and go, but standards are (mostly) forever.</p>\n",
 				"content_text": "Platforms come and go, but standards are (mostly) forever.\n",
-				"date_published": "2022-10-27T22:28:39-04:00",
+				"date_published": "2022-10-27T21:28:39-05:00",
 				"url": "https://jaredwsmith.com/2022/10/27/platforms-come-and.html",
 				"tags": ["280"]
 			},
@@ -20,33 +56,33 @@
 				
 				"content_html": "<p>I’m surprised Apple didn’t delay Stage Manager until spring. My only guess is that they felt they had to get it in peoples’ hands and iterate from there. <a href=\"https://www.macstories.net/stories/stage-manager-ipados-16-1-review/\">Vittici was pretty pointed</a>, but constructive, in his criticisms.</p>\n",
 				"content_text": "I’m surprised Apple didn’t delay Stage Manager until spring. My only guess is that they felt they had to get it in peoples’ hands and iterate from there. [Vittici was pretty pointed](https://www.macstories.net/stories/stage-manager-ipados-16-1-review/), but constructive, in his criticisms.\n",
-				"date_published": "2022-10-24T22:33:45-04:00",
+				"date_published": "2022-10-24T21:33:45-05:00",
 				"url": "https://jaredwsmith.com/2022/10/24/im-surprised-apple.html",
 				"tags": ["280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2022/10/22/tidying-things-up.html",
 				
-				"content_html": "<p>Tidying things up over here on the ol&rsquo; micro-dot-blog. <a href=\"https://twitter.com/cbouzy/status/1583436603837796353?s=20&t=oabqxYB6eckAgeEJcGLToA\">Can&rsquo;t imagine why</a>.</p>\n",
+				"content_html": "<p>Tidying things up over here on the ol' micro-dot-blog. <!-- raw HTML omitted -->Can&rsquo;t imagine why<!-- raw HTML omitted -->.</p>\n",
 				"content_text": "Tidying things up over here on the ol' micro-dot-blog. <a href=\"https://twitter.com/cbouzy/status/1583436603837796353?s=20&t=oabqxYB6eckAgeEJcGLToA\">Can't imagine why</a>.\n",
-				"date_published": "2022-10-22T12:13:10-04:00",
+				"date_published": "2022-10-22T11:13:10-05:00",
 				"url": "https://jaredwsmith.com/2022/10/22/tidying-things-up.html",
 				"tags": ["280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2022/07/24/betas-this-week.html",
 				"title": "Betas 4 this week?",
-				"content_html": "<p>Should hopefully see Beta 4 of all of the new Apple OS releases this week. Beta 3 hasn’t really been that bad. Some app crashes and restarts here and there on the phone, but overall, nothing too out of the ordinary in a beta cycle. iPad has been in good shape, with the occasional app crash and a few bugs in Stage Manager, but again, it’s been pretty solid all things considered. (Ventura has been really good so far, too, though it could still use some performance tuning and tweaks to Stage Manager.)</p>\n\n<p>Thinking beta 4 is probably going to be one of the last times we see big changes in spots before turning focus to polish in August. If Apple is going to make feature cuts for 16.0, we’ll probably see that in the next 2-3 weeks.</p>\n",
+				"content_html": "<p>Should hopefully see Beta 4 of all of the new Apple OS releases this week. Beta 3 hasn’t really been that bad. Some app crashes and restarts here and there on the phone, but overall, nothing too out of the ordinary in a beta cycle. iPad has been in good shape, with the occasional app crash and a few bugs in Stage Manager, but again, it’s been pretty solid all things considered. (Ventura has been really good so far, too, though it could still use some performance tuning and tweaks to Stage Manager.)</p>\n<p>Thinking beta 4 is probably going to be one of the last times we see big changes in spots before turning focus to polish in August. If Apple is going to make feature cuts for 16.0, we’ll probably see that in the next 2-3 weeks.</p>\n",
 				"content_text": "Should hopefully see Beta 4 of all of the new Apple OS releases this week. Beta 3 hasn’t really been that bad. Some app crashes and restarts here and there on the phone, but overall, nothing too out of the ordinary in a beta cycle. iPad has been in good shape, with the occasional app crash and a few bugs in Stage Manager, but again, it’s been pretty solid all things considered. (Ventura has been really good so far, too, though it could still use some performance tuning and tweaks to Stage Manager.)\n\nThinking beta 4 is probably going to be one of the last times we see big changes in spots before turning focus to polish in August. If Apple is going to make feature cuts for 16.0, we’ll probably see that in the next 2-3 weeks.\n",
-				"date_published": "2022-07-24T22:50:25-04:00",
+				"date_published": "2022-07-24T21:50:25-05:00",
 				"url": "https://jaredwsmith.com/2022/07/24/betas-this-week.html"
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2022/07/16/went-with-the.html",
 				
-				"content_html": "<p>Went with the MacBook Pro 14” with the M1 Pro over the M2 Air. For the money I would have spent on the configuration I wanted for the Air, I’d be out several ports and a card reader, not to mention the brilliant ProMotion refresh rate. What a difference from my 2015 13” MBP!</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Went with the MacBook Pro 14” with the M1 Pro over the M2 Air. For the money I would have spent on the configuration I wanted for the Air, I’d be out several ports and a card reader, not to mention the brilliant ProMotion refresh rate. What a difference from my 2015 13” MBP!</p>\n",
-				"date_published": "2022-07-16T18:08:52-04:00",
+				"date_published": "2022-07-16T17:08:52-05:00",
 				"url": "https://jaredwsmith.com/2022/07/16/went-with-the.html",
 				"tags": ["Tech","280"]
 			},
@@ -55,7 +91,7 @@
 				
 				"content_html": "<p>The <a href=\"https://jaredwsmith.com/2021/10/11/i-hope-that.html\">overlapping notification bug</a> was indeed fixed in iOS 15.1, and thank goodness for that. What an annoyance. I’m still surprised it made it to the final release.</p>\n",
 				"content_text": "The [overlapping notification bug](https://jaredwsmith.com/2021/10/11/i-hope-that.html) was indeed fixed in iOS 15.1, and thank goodness for that. What an annoyance. I’m still surprised it made it to the final release.\n",
-				"date_published": "2021-10-19T12:51:40-04:00",
+				"date_published": "2021-10-19T11:51:40-05:00",
 				"url": "https://jaredwsmith.com/2021/10/19/the-overlapping-notification.html",
 				"tags": ["280"]
 			},
@@ -64,7 +100,7 @@
 				
 				"content_html": "<p>I hope that someone fixed the notification overlap bug with Summaries in iOS 15.0.2 and just didn’t say anything. That is beyond annoying and makes one of the tentpole features of 15 very difficult to use.</p>\n",
 				"content_text": "I hope that someone fixed the notification overlap bug with Summaries in iOS 15.0.2 and just didn’t say anything. That is beyond annoying and makes one of the tentpole features of 15 very difficult to use.\n",
-				"date_published": "2021-10-11T13:13:44-04:00",
+				"date_published": "2021-10-11T12:13:44-05:00",
 				"url": "https://jaredwsmith.com/2021/10/11/i-hope-that.html",
 				"tags": ["280"]
 			},
@@ -73,24 +109,24 @@
 				
 				"content_html": "<p>There’s a bad bug in the latest Keynote update for iPadOS (and probably iOS, too). If, on first launch, you open a presentation with font warnings, after dismissing the font warning box you’ll be presented with a totally unresponsive Keynote. You have to open a presentation with no font warnings (or start a new one) in order to get Keynote to get going, which I accomplished through the Haptic Touch context menu. Once that’s done, you are prompted with the “what’s new in Keynote” modal…which likely was the culprit for the whole thing. Ugh.</p>\n",
 				"content_text": "There’s a bad bug in the latest Keynote update for iPadOS (and probably iOS, too). If, on first launch, you open a presentation with font warnings, after dismissing the font warning box you’ll be presented with a totally unresponsive Keynote. You have to open a presentation with no font warnings (or start a new one) in order to get Keynote to get going, which I accomplished through the Haptic Touch context menu. Once that’s done, you are prompted with the “what’s new in Keynote” modal…which likely was the culprit for the whole thing. Ugh.\n",
-				"date_published": "2021-09-30T18:32:00-04:00",
+				"date_published": "2021-09-30T17:32:00-05:00",
 				"url": "https://jaredwsmith.com/2021/09/30/theres-a-bad.html",
-				"tags": ["Tech","Personal"]
+				"tags": ["Tech","Personal","280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/09/26/iphone-pro-max.html",
 				"title": "iPhone 13 Pro Max snap judgements",
-				"content_html": "<p>I received my iPhone 13 Pro Max on Friday. Here’s my snap judgements so far. (Please note that my complaints are solidly rooted in first-world problem territory.)</p>\n\n<ul>\n<li>ProRAW makes RAW capture so, so, so much more doable on the iPhone. On the iPhone 11 Pro Max, RAW photos would often overexpose horribly when pulled into apps like Darkroom. This is no longer the case and I am very happy.</li>\n<li>Getting the 256 GB model may have been a mistake given how much I like ProRAW.</li>\n<li>Low light performance is as advertised. It’s bonkers how good it is; after reducing the light pollution in post, the <a href=\"https://glass.photo/jaredwsmith/1n7QIqvr2AEXYpfYxWBt6o\">starfield in this photo is amazing</a>. This was a 10-second Night Mode capture right out of the stock app which I tweaked in Darkroom.</li>\n<li>Condensing the TrueDepth system and getting a little more screen space back is a win, but the notch has never really bothered me overall. It’ll be interesting to see how app developers take advantage of the extra space. (I see Apple has declined to do so in this initial release aside from making the time and indicators larger.)</li>\n<li>So far, so very good with battery life. Here’s hoping there isn’t such a sudden decline in health as I saw on my 11 Pro Max.</li>\n<li>The iPhone 4 vibes are very real with this phone, right down to the placement of the antenna gaps in the outer stainless steel band. Kind of uncanny. (But it certainly performs well no matter how you hold it.)</li>\n<li>ProMotion has spoiled me on the iPad Pro, and it is so great to finally have it on the iPhone.</li>\n<li>One thing I will miss from my iPhone 11 is the lack of a bottom lip on the Apple Leather case. This not only made swiping up more smooth, it also gave me a good indicator as to which way was “up” when pulling the phone from the pocket. This is not the case with the 13 (and probably wasn’t with the 12, either, but I skipped that), and already I’ve run into a few cases where I pull the phone out, try to unlock it, only to find it’s upside down.</li>\n<li>iOS 15 is still buggy. I sure hope that Apple fixes <a href=\"https://www.macrumors.com/2021/09/26/apple-to-fix-iphone-13-unlock-with-apple-watch/\">the bug that breaks Apple Watch unlock</a> while wearing a mask very soon. It’s quite inconvenient.</li>\n<li>The <a href=\"https://www.reddit.com/r/iOSBeta/comments/c7tyg8/bug_notification_stacks_sometimes_overlap_each/\">overlapping notifications bug</a> was annoying in the betas. In the final release, and especially on new hardware, it’s unacceptable. I hope this is getting fixed in a point release, because it is so aggravating (to the point where I might have to miss notifications because I can’t get them to display).</li>\n</ul>\n\n<p>All in all, the hardware is great. The software will get better over time (theoretically, anyway). Certainly a must-have upgrade on the X or older, IMO, especially since the Max and standard-size Pro have feature parity this go-around (unlike the 12 Pro and Pro Max).</p>\n",
+				"content_html": "<p>I received my iPhone 13 Pro Max on Friday. Here’s my snap judgements so far. (Please note that my complaints are solidly rooted in first-world problem territory.)</p>\n<ul>\n<li>ProRAW makes RAW capture so, so, so much more doable on the iPhone. On the iPhone 11 Pro Max, RAW photos would often overexpose horribly when pulled into apps like Darkroom. This is no longer the case and I am very happy.</li>\n<li>Getting the 256 GB model may have been a mistake given how much I like ProRAW.</li>\n<li>Low light performance is as advertised. It’s bonkers how good it is; after reducing the light pollution in post, the <a href=\"https://glass.photo/jaredwsmith/1n7QIqvr2AEXYpfYxWBt6o\">starfield in this photo is amazing</a>. This was a 10-second Night Mode capture right out of the stock app which I tweaked in Darkroom.</li>\n<li>Condensing the TrueDepth system and getting a little more screen space back is a win, but the notch has never really bothered me overall. It’ll be interesting to see how app developers take advantage of the extra space. (I see Apple has declined to do so in this initial release aside from making the time and indicators larger.)</li>\n<li>So far, so very good with battery life. Here’s hoping there isn’t such a sudden decline in health as I saw on my 11 Pro Max.</li>\n<li>The iPhone 4 vibes are very real with this phone, right down to the placement of the antenna gaps in the outer stainless steel band. Kind of uncanny. (But it certainly performs well no matter how you hold it.)</li>\n<li>ProMotion has spoiled me on the iPad Pro, and it is so great to finally have it on the iPhone.</li>\n<li>One thing I will miss from my iPhone 11 is the lack of a bottom lip on the Apple Leather case. This not only made swiping up more smooth, it also gave me a good indicator as to which way was “up” when pulling the phone from the pocket. This is not the case with the 13 (and probably wasn’t with the 12, either, but I skipped that), and already I’ve run into a few cases where I pull the phone out, try to unlock it, only to find it’s upside down.</li>\n<li>iOS 15 is still buggy. I sure hope that Apple fixes <a href=\"https://www.macrumors.com/2021/09/26/apple-to-fix-iphone-13-unlock-with-apple-watch/\">the bug that breaks Apple Watch unlock</a> while wearing a mask very soon. It’s quite inconvenient.</li>\n<li>The <a href=\"https://www.reddit.com/r/iOSBeta/comments/c7tyg8/bug_notification_stacks_sometimes_overlap_each/\">overlapping notifications bug</a> was annoying in the betas. In the final release, and especially on new hardware, it’s unacceptable. I hope this is getting fixed in a point release, because it is so aggravating (to the point where I might have to miss notifications because I can’t get them to display).</li>\n</ul>\n<p>All in all, the hardware is great. The software will get better over time (theoretically, anyway). Certainly a must-have upgrade on the X or older, IMO, especially since the Max and standard-size Pro have feature parity this go-around (unlike the 12 Pro and Pro Max).</p>\n",
 				"content_text": "I received my iPhone 13 Pro Max on Friday. Here’s my snap judgements so far. (Please note that my complaints are solidly rooted in first-world problem territory.)\n\n- ProRAW makes RAW capture so, so, so much more doable on the iPhone. On the iPhone 11 Pro Max, RAW photos would often overexpose horribly when pulled into apps like Darkroom. This is no longer the case and I am very happy.\n- Getting the 256 GB model may have been a mistake given how much I like ProRAW.\n- Low light performance is as advertised. It’s bonkers how good it is; after reducing the light pollution in post, the [starfield in this photo is amazing](https://glass.photo/jaredwsmith/1n7QIqvr2AEXYpfYxWBt6o). This was a 10-second Night Mode capture right out of the stock app which I tweaked in Darkroom.\n- Condensing the TrueDepth system and getting a little more screen space back is a win, but the notch has never really bothered me overall. It’ll be interesting to see how app developers take advantage of the extra space. (I see Apple has declined to do so in this initial release aside from making the time and indicators larger.)\n- So far, so very good with battery life. Here’s hoping there isn’t such a sudden decline in health as I saw on my 11 Pro Max.\n- The iPhone 4 vibes are very real with this phone, right down to the placement of the antenna gaps in the outer stainless steel band. Kind of uncanny. (But it certainly performs well no matter how you hold it.)\n- ProMotion has spoiled me on the iPad Pro, and it is so great to finally have it on the iPhone.\n- One thing I will miss from my iPhone 11 is the lack of a bottom lip on the Apple Leather case. This not only made swiping up more smooth, it also gave me a good indicator as to which way was “up” when pulling the phone from the pocket. This is not the case with the 13 (and probably wasn’t with the 12, either, but I skipped that), and already I’ve run into a few cases where I pull the phone out, try to unlock it, only to find it’s upside down.\n- iOS 15 is still buggy. I sure hope that Apple fixes [the bug that breaks Apple Watch unlock](https://www.macrumors.com/2021/09/26/apple-to-fix-iphone-13-unlock-with-apple-watch/) while wearing a mask very soon. It’s quite inconvenient.\n- The [overlapping notifications bug](https://www.reddit.com/r/iOSBeta/comments/c7tyg8/bug_notification_stacks_sometimes_overlap_each/) was annoying in the betas. In the final release, and especially on new hardware, it’s unacceptable. I hope this is getting fixed in a point release, because it is so aggravating (to the point where I might have to miss notifications because I can’t get them to display).\n\nAll in all, the hardware is great. The software will get better over time (theoretically, anyway). Certainly a must-have upgrade on the X or older, IMO, especially since the Max and standard-size Pro have feature parity this go-around (unlike the 12 Pro and Pro Max).\n",
-				"date_published": "2021-09-26T10:48:41-04:00",
+				"date_published": "2021-09-26T09:48:41-05:00",
 				"url": "https://jaredwsmith.com/2021/09/26/iphone-pro-max.html"
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/09/03/this-is-my.html",
 				
-				"content_html": "<iframe style=\"width: auto\" src=\"https://www.youtube.com/embed/LhINrendaFo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>This is my favorite thing today. (Yes, I realize it&rsquo;s early.) I&rsquo;ve loved Dan Siegel&rsquo;s music for years, and this interpretation with guitars is so, so good.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>This is my favorite thing today. (Yes, I realize it&rsquo;s early.) I&rsquo;ve loved Dan Siegel&rsquo;s music for years, and this interpretation with guitars is so, so good.</p>\n",
 				"content_text": "<iframe style=\"width: auto\" src=\"https://www.youtube.com/embed/LhINrendaFo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nThis is my favorite thing today. (Yes, I realize it's early.) I've loved Dan Siegel's music for years, and this interpretation with guitars is so, so good.\n",
-				"date_published": "2021-09-03T08:24:00-04:00",
+				"date_published": "2021-09-03T07:24:00-05:00",
 				"url": "https://jaredwsmith.com/2021/09/03/this-is-my.html",
 				"tags": ["280","Music"]
 			},
@@ -99,16 +135,16 @@
 				
 				"content_html": "<p>I think I am finally becoming a real Mac user: both my home and work desktops have gotten uncharacteristically cluttered with lots of random things. (Thank goodness for Stacks.)</p>\n",
 				"content_text": "I think I am finally becoming a real Mac user: both my home and work desktops have gotten uncharacteristically cluttered with lots of random things. (Thank goodness for Stacks.)\n",
-				"date_published": "2021-09-01T08:10:56-04:00",
+				"date_published": "2021-09-01T07:10:56-05:00",
 				"url": "https://jaredwsmith.com/2021/09/01/i-think-i.html",
 				"tags": ["Tech","Personal","Meta","280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/29/ida-is-getting.html",
 				
-				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n\n<p><img src=\"https://jaredwsmith.com/uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" /></p>\n",
-				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"https://jaredwsmith.com/uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
-				"date_published": "2021-08-29T00:28:11-04:00",
+				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
+				"date_published": "2021-08-28T23:28:11-05:00",
 				"url": "https://jaredwsmith.com/2021/08/29/ida-is-getting.html",
 				"tags": ["280"]
 			},
@@ -117,25 +153,25 @@
 				
 				"content_html": "<p>Don’t like Ida for my LA/MS/AL Gulf Coast peeps. Please be getting ready now for a major hurricane strike with peak wind impacts in Louisiana — perhaps in the New Orleans metro area — and flooding impacts spreading much further out from the center of the storm.</p>\n",
 				"content_text": "Don’t like Ida for my LA/MS/AL Gulf Coast peeps. Please be getting ready now for a major hurricane strike with peak wind impacts in Louisiana — perhaps in the New Orleans metro area — and flooding impacts spreading much further out from the center of the storm.\n",
-				"date_published": "2021-08-27T08:30:12-04:00",
+				"date_published": "2021-08-27T07:30:12-05:00",
 				"url": "https://jaredwsmith.com/2021/08/27/dont-like-ida.html",
 				"tags": ["280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/21/i-could-do.html",
 				
-				"content_html": "<p>I could do the easy thing, which is to just stick a <code>local</code> in the path to the PHP interpreter in my LDM ingest script, or I could do the hard thing, which is to Dockerize all of it.</p>\n\n<p>Take a wild guess at what I&rsquo;m doing.</p>\n",
+				"content_html": "<p>I could do the easy thing, which is to just stick a <code>local</code> in the path to the PHP interpreter in my LDM ingest script, or I could do the hard thing, which is to Dockerize all of it.</p>\n<p>Take a wild guess at what I&rsquo;m doing.</p>\n",
 				"content_text": "I could do the easy thing, which is to just stick a `local` in the path to the PHP interpreter in my LDM ingest script, or I could do the hard thing, which is to Dockerize all of it.\n\nTake a wild guess at what I'm doing.\n",
-				"date_published": "2021-08-21T10:12:31-04:00",
+				"date_published": "2021-08-21T09:12:31-05:00",
 				"url": "https://jaredwsmith.com/2021/08/21/i-could-do.html",
 				"tags": ["Tech","280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/20/wild-friday-night.html",
 				
-				"content_html": "<p>Wild Friday night over here doing a deep dive into HTML semantics.</p>\n\n<p>Pro tip: If you list “expert in HTML” on your résumé and I’m interviewing you, I’m gonna test that.</p>\n",
+				"content_html": "<p>Wild Friday night over here doing a deep dive into HTML semantics.</p>\n<p>Pro tip: If you list “expert in HTML” on your résumé and I’m interviewing you, I’m gonna test that.</p>\n",
 				"content_text": "Wild Friday night over here doing a deep dive into HTML semantics.\n\nPro tip: If you list “expert in HTML” on your résumé and I’m interviewing you, I’m gonna test that.\n",
-				"date_published": "2021-08-20T18:39:37-04:00",
+				"date_published": "2021-08-20T17:39:37-05:00",
 				"url": "https://jaredwsmith.com/2021/08/20/wild-friday-night.html",
 				"tags": ["Tech","280"]
 			},
@@ -144,78 +180,78 @@
 				
 				"content_html": "<p>Kudos to Apple for <a href=\"https://www.macrumors.com/2021/08/17/apple-safari-design-changes-ios-15-beta-6/\">reversing course</a> on requiring the bottom-aligned address bar for Safari 15 on iOS. Giving the user choice here was the right call — a win-win for everyone.</p>\n",
 				"content_text": "Kudos to Apple for [reversing course](https://www.macrumors.com/2021/08/17/apple-safari-design-changes-ios-15-beta-6/) on requiring the bottom-aligned address bar for Safari 15 on iOS. Giving the user choice here was the right call — a win-win for everyone.\n",
-				"date_published": "2021-08-17T19:35:57-04:00",
+				"date_published": "2021-08-17T18:35:57-05:00",
 				"url": "https://jaredwsmith.com/2021/08/17/kudos-to-apple.html",
 				"tags": ["280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/16/whats-on-my.html",
 				"title": "What’s on my mind, volume 1, episode 1",
-				"content_html": "<p>What’s on my mind to start the week:</p>\n\n<ul>\n<li>⚾️ Good for Reiss Knehr, getting his first major league win in a bullpen game for the Padres. I like his mettle.</li>\n<li>⚾️ Thank goodness Tatis is back. San Diego desperately needs his bat — and his swagger. So far, so good in right field. It’s a nice luxury to have Jake Cronenworth, a natural shortstop, be able to slide into that position and not skip a beat. Also, how good does that Adam Frazier trade look now?</li>\n<li>⚾️ The Padres just cannot be dropping series to the likes of the Diamondbacks if they expect to make it very far into October (or even the playoffs at all). The Dodgers and Giants have much better records against the teams that they should beat.</li>\n<li>⌚️ Where is watchOS 8 public beta 5? Is Apple just going to skip it and seed us with beta 6 this week? (Presuming, of course, we go to weekly releases starting this week.)</li>\n<li>🖥 I really, really hope the external monitor struggles in Monterey beta 5 are resolved soon. The new release botched the black point on my new 4K LG monitor, and now <em>both</em> the USB-C and HDMI monitors kick on briefly at random intervals. (Previously, only the USB-C/DisplayPort monitor did this.)</li>\n<li>🤔 Why exactly <em>do</em> I torture myself every summer with betas?</li>\n</ul>\n\n<p>Be good to each other.</p>\n",
+				"content_html": "<p>What’s on my mind to start the week:</p>\n<ul>\n<li>⚾️ Good for Reiss Knehr, getting his first major league win in a bullpen game for the Padres. I like his mettle.</li>\n<li>⚾️ Thank goodness Tatis is back. San Diego desperately needs his bat — and his swagger. So far, so good in right field. It’s a nice luxury to have Jake Cronenworth, a natural shortstop, be able to slide into that position and not skip a beat. Also, how good does that Adam Frazier trade look now?</li>\n<li>⚾️ The Padres just cannot be dropping series to the likes of the Diamondbacks if they expect to make it very far into October (or even the playoffs at all). The Dodgers and Giants have much better records against the teams that they should beat.</li>\n<li>⌚️ Where is watchOS 8 public beta 5? Is Apple just going to skip it and seed us with beta 6 this week? (Presuming, of course, we go to weekly releases starting this week.)</li>\n<li>🖥 I really, really hope the external monitor struggles in Monterey beta 5 are resolved soon. The new release botched the black point on my new 4K LG monitor, and now <em>both</em> the USB-C and HDMI monitors kick on briefly at random intervals. (Previously, only the USB-C/DisplayPort monitor did this.)</li>\n<li>🤔 Why exactly <em>do</em> I torture myself every summer with betas?</li>\n</ul>\n<p>Be good to each other.</p>\n",
 				"content_text": "What’s on my mind to start the week:\n\n- ⚾️ Good for Reiss Knehr, getting his first major league win in a bullpen game for the Padres. I like his mettle.\n- ⚾️ Thank goodness Tatis is back. San Diego desperately needs his bat — and his swagger. So far, so good in right field. It’s a nice luxury to have Jake Cronenworth, a natural shortstop, be able to slide into that position and not skip a beat. Also, how good does that Adam Frazier trade look now?\n- ⚾️ The Padres just cannot be dropping series to the likes of the Diamondbacks if they expect to make it very far into October (or even the playoffs at all). The Dodgers and Giants have much better records against the teams that they should beat.\n- ⌚️ Where is watchOS 8 public beta 5? Is Apple just going to skip it and seed us with beta 6 this week? (Presuming, of course, we go to weekly releases starting this week.)\n- 🖥 I really, really hope the external monitor struggles in Monterey beta 5 are resolved soon. The new release botched the black point on my new 4K LG monitor, and now _both_ the USB-C and HDMI monitors kick on briefly at random intervals. (Previously, only the USB-C/DisplayPort monitor did this.)\n- 🤔 Why exactly _do_ I torture myself every summer with betas?\n\nBe good to each other.\n",
-				"date_published": "2021-08-16T08:57:27-04:00",
+				"date_published": "2021-08-16T07:57:27-05:00",
 				"url": "https://jaredwsmith.com/2021/08/16/whats-on-my.html"
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/13/album-of-the.html",
 				"title": "Album of the week: Shulamith by POLIÇA",
-				"content_html": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" height=\"450\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/us/album/shulamith/682621021\"></iframe>\n\n<p>Favorite tunes: Vegas, Tiff, and Matty. Love Channy Leaneagh&rsquo;s vocals and the use of effects to really make them flow in as another instrument in the ensemble.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Favorite tunes: Vegas, Tiff, and Matty. Love Channy Leaneagh&rsquo;s vocals and the use of effects to really make them flow in as another instrument in the ensemble.</p>\n",
 				"content_text": "<iframe allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" height=\"450\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/us/album/shulamith/682621021\"></iframe>\n\nFavorite tunes: Vegas, Tiff, and Matty. Love Channy Leaneagh's vocals and the use of effects to really make them flow in as another instrument in the ensemble.\n",
-				"date_published": "2021-08-13T20:53:00-04:00",
+				"date_published": "2021-08-13T19:53:00-05:00",
 				"url": "https://jaredwsmith.com/2021/08/13/album-of-the.html",
 				"tags": ["Music"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/12/so-far-so.html",
 				
-				"content_html": "<p>So far, so good with the fifth betas of iOS and iPadOS 15. Refinements are definitely starting, but there are still plenty of rough edges, which is to be expected at this stage. I’ve come to really enjoy the notification summaries — I added a midday summary to my slate, for a total of three — and find Focus modes extremely helpful. Syncing Focus state across devices solved a problem I didn’t realize I had until I added the iPad to the mix back in June, when my phone would be on Do Not Disturb but I would forget to set the iPad.</p>\n\n<p>I’m running the dev seed of Monterey on my 2015 MBP, and had a bit of a scare last night when I went back to it and it was powered off. I fired it back up, but it promptly went into a reboot loop every time I tried to log in. Shutting the machine down and powering back up took care of it, and the installation finished successfully. I’ve not spent much time with it since then, though. Here’s hoping the public beta goes on a little smoother today on the M1.</p>\n\n<p>Hoping for a watchOS 8 public beta today as well. Battery struggles are very, very real on beta 4 on my Series 4, so here’s hoping those rough edges start to smooth out on beta 5.</p>\n",
+				"content_html": "<p>So far, so good with the fifth betas of iOS and iPadOS 15. Refinements are definitely starting, but there are still plenty of rough edges, which is to be expected at this stage. I’ve come to really enjoy the notification summaries — I added a midday summary to my slate, for a total of three — and find Focus modes extremely helpful. Syncing Focus state across devices solved a problem I didn’t realize I had until I added the iPad to the mix back in June, when my phone would be on Do Not Disturb but I would forget to set the iPad.</p>\n<p>I’m running the dev seed of Monterey on my 2015 MBP, and had a bit of a scare last night when I went back to it and it was powered off. I fired it back up, but it promptly went into a reboot loop every time I tried to log in. Shutting the machine down and powering back up took care of it, and the installation finished successfully. I’ve not spent much time with it since then, though. Here’s hoping the public beta goes on a little smoother today on the M1.</p>\n<p>Hoping for a watchOS 8 public beta today as well. Battery struggles are very, very real on beta 4 on my Series 4, so here’s hoping those rough edges start to smooth out on beta 5.</p>\n",
 				"content_text": "So far, so good with the fifth betas of iOS and iPadOS 15. Refinements are definitely starting, but there are still plenty of rough edges, which is to be expected at this stage. I’ve come to really enjoy the notification summaries — I added a midday summary to my slate, for a total of three — and find Focus modes extremely helpful. Syncing Focus state across devices solved a problem I didn’t realize I had until I added the iPad to the mix back in June, when my phone would be on Do Not Disturb but I would forget to set the iPad.\n\nI’m running the dev seed of Monterey on my 2015 MBP, and had a bit of a scare last night when I went back to it and it was powered off. I fired it back up, but it promptly went into a reboot loop every time I tried to log in. Shutting the machine down and powering back up took care of it, and the installation finished successfully. I’ve not spent much time with it since then, though. Here’s hoping the public beta goes on a little smoother today on the M1.\n\nHoping for a watchOS 8 public beta today as well. Battery struggles are very, very real on beta 4 on my Series 4, so here’s hoping those rough edges start to smooth out on beta 5.\n",
-				"date_published": "2021-08-12T08:49:12-04:00",
+				"date_published": "2021-08-12T07:49:12-05:00",
 				"url": "https://jaredwsmith.com/2021/08/12/so-far-so.html",
 				"tags": ["280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/09/hybrid-black-halo.html",
 				
-				"content_html": "<p>Hybrid Black Halo box set acquired.</p>\n\n<p>I had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.</p>\n\n<p><img src=\"uploads/2021/d92fb9cf30.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_html": "<p>Hybrid Black Halo box set acquired.</p>\n<p>I had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Hybrid Black Halo box set acquired.\n\nI had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.\n\n<img src=\"uploads/2021/d92fb9cf30.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2021-08-09T19:40:00-04:00",
+				"date_published": "2021-08-09T18:40:00-05:00",
 				"url": "https://jaredwsmith.com/2021/08/09/hybrid-black-halo.html",
 				"tags": ["280","Music"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/08/the-monitor-update.html",
 				"title": "The monitor update nobody asked for",
-				"content_html": "<p>I upgraded <a href=\"https://jaredwsmith.com/2021/08/02/i-think-the.html\">my Mac mini’s monitor</a> yesterday. I ended up going with a <a href=\"https://www.amazon.com/dp/B08S3R3CFD?ref=ppx_pop_mob_ap_share\">27” LG 4K IPS panel</a>.</p>\n\n<p>First impressions are good. I’m hooked to the Mini via DisplayPort over USB-C. The USB-A ports are super-handy (and really a nice bonus), but are notably not rigged for high-power applications such as a charging pad.</p>\n\n<p>Picture quality is great and does the job well for me. Text looks great, which is what I was gunning for, and the viewing angles are exactly what you would expect from an IPS panel. Looking forward to putting it more through its paces this week.</p>\n",
+				"content_html": "<p>I upgraded <a href=\"https://jaredwsmith.com/2021/08/02/i-think-the.html\">my Mac mini’s monitor</a> yesterday. I ended up going with a <a href=\"https://www.amazon.com/dp/B08S3R3CFD?ref=ppx_pop_mob_ap_share\">27” LG 4K IPS panel</a>.</p>\n<p>First impressions are good. I’m hooked to the Mini via DisplayPort over USB-C. The USB-A ports are super-handy (and really a nice bonus), but are notably not rigged for high-power applications such as a charging pad.</p>\n<p>Picture quality is great and does the job well for me. Text looks great, which is what I was gunning for, and the viewing angles are exactly what you would expect from an IPS panel. Looking forward to putting it more through its paces this week.</p>\n",
 				"content_text": "I upgraded [my Mac mini’s monitor](https://jaredwsmith.com/2021/08/02/i-think-the.html) yesterday. I ended up going with a [27” LG 4K IPS panel](https://www.amazon.com/dp/B08S3R3CFD?ref=ppx_pop_mob_ap_share).\n\nFirst impressions are good. I’m hooked to the Mini via DisplayPort over USB-C. The USB-A ports are super-handy (and really a nice bonus), but are notably not rigged for high-power applications such as a charging pad.\n\nPicture quality is great and does the job well for me. Text looks great, which is what I was gunning for, and the viewing angles are exactly what you would expect from an IPS panel. Looking forward to putting it more through its paces this week.\n",
-				"date_published": "2021-08-08T08:26:09-04:00",
+				"date_published": "2021-08-08T07:26:09-05:00",
 				"url": "https://jaredwsmith.com/2021/08/08/the-monitor-update.html",
 				"tags": ["Tech","Personal"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/08/safaris-new-design.html",
 				
-				"content_html": "<p>Safari’s new design on iOS 15 is a no-go.</p>\n\n<p>I’m usually really good at adjusting to change, but this isn’t taking. I always expect the address to be at the top of the screen. You need good reason to break decades of convention, and this ain’t it.</p>\n\n<p>Hoping for relief in beta 5.</p>\n",
+				"content_html": "<p>Safari’s new design on iOS 15 is a no-go.</p>\n<p>I’m usually really good at adjusting to change, but this isn’t taking. I always expect the address to be at the top of the screen. You need good reason to break decades of convention, and this ain’t it.</p>\n<p>Hoping for relief in beta 5.</p>\n",
 				"content_text": "Safari’s new design on iOS 15 is a no-go.\n\nI’m usually really good at adjusting to change, but this isn’t taking. I always expect the address to be at the top of the screen. You need good reason to break decades of convention, and this ain’t it.\n\nHoping for relief in beta 5.\n",
-				"date_published": "2021-08-08T08:10:01-04:00",
+				"date_published": "2021-08-08T07:10:01-05:00",
 				"url": "https://jaredwsmith.com/2021/08/08/safaris-new-design.html",
 				"tags": ["280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/03/rejected-chswx-tweetsmicroblogs.html",
 				
-				"content_html": "<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2021/acb262c271.png\" alt=\"Kclx 20210803 1235 BR 0 4\" title=\"kclx_20210803_1235_BR_0.4.png\" border=\"0\" width=\"959\" height=\"480\" /></p>\n\n<p>Rejected @chswx tweets/microblogs: &ldquo;Do you <em>really</em> like long walks on the beach? Prove it.&rdquo;</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Rejected @chswx tweets/microblogs: &ldquo;Do you <em>really</em> like long walks on the beach? Prove it.&rdquo;</p>\n",
 				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2021/acb262c271.png\" alt=\"Kclx 20210803 1235 BR 0 4\" title=\"kclx_20210803_1235_BR_0.4.png\" border=\"0\" width=\"959\" height=\"480\" />\n\nRejected @chswx tweets/microblogs: \"Do you _really_ like long walks on the beach? Prove it.\"\n",
-				"date_published": "2021-08-03T08:38:44-04:00",
+				"date_published": "2021-08-03T07:38:44-05:00",
 				"url": "https://jaredwsmith.com/2021/08/03/rejected-chswx-tweetsmicroblogs.html",
 				"tags": ["Meta","280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/08/02/i-think-the.html",
 				
-				"content_html": "<p>I think the time is coming to ditch my 4K TN-paneled monitor that I&rsquo;ve got attached to my Mac mini. I don&rsquo;t game, I live in text, and I am still unaware of anything better than an IPS panel for textual applications. (I honestly wonder how much eyestrain I&rsquo;ve incurred because of the TN panel.)</p>\n\n<p>Trying to decide if going ultrawide is worth it at this point, or if I should just stick to a standard wide IPS display with a second monitor rotated into portrait as I have today. If I go ultrawide, I can take the secondary monitor (which has an IPS panel) and move it over to my AWIPS workstation, replacing another older TN panel. On the other hand, I recoil at the price of high-DPI ultrawides, so I might just do the swap.</p>\n",
+				"content_html": "<p>I think the time is coming to ditch my 4K TN-paneled monitor that I&rsquo;ve got attached to my Mac mini. I don&rsquo;t game, I live in text, and I am still unaware of anything better than an IPS panel for textual applications. (I honestly wonder how much eyestrain I&rsquo;ve incurred because of the TN panel.)</p>\n<p>Trying to decide if going ultrawide is worth it at this point, or if I should just stick to a standard wide IPS display with a second monitor rotated into portrait as I have today. If I go ultrawide, I can take the secondary monitor (which has an IPS panel) and move it over to my AWIPS workstation, replacing another older TN panel. On the other hand, I recoil at the price of high-DPI ultrawides, so I might just do the swap.</p>\n",
 				"content_text": "I think the time is coming to ditch my 4K TN-paneled monitor that I've got attached to my Mac mini. I don't game, I live in text, and I am still unaware of anything better than an IPS panel for textual applications. (I honestly wonder how much eyestrain I've incurred because of the TN panel.)\n\nTrying to decide if going ultrawide is worth it at this point, or if I should just stick to a standard wide IPS display with a second monitor rotated into portrait as I have today. If I go ultrawide, I can take the secondary monitor (which has an IPS panel) and move it over to my AWIPS workstation, replacing another older TN panel. On the other hand, I recoil at the price of high-DPI ultrawides, so I might just do the swap.\n",
-				"date_published": "2021-08-02T21:23:05-04:00",
+				"date_published": "2021-08-02T20:23:05-05:00",
 				"url": "https://jaredwsmith.com/2021/08/02/i-think-the.html",
 				"tags": ["280"]
 			},
@@ -224,34 +260,34 @@
 				
 				"content_html": "<p>MacRumors <a href=\"https://www.macrumors.com/2021/07/27/ios-15-maps-weather-warnings-routes/\">reports that iOS 15 will route people around Flash Flood Warnings</a>. At first glance, this appears to be an extremely smart application of the Dark Sky acquisition. It will be interesting to see if this only applies to Flash Flood Warnings or other warning types. It would also be interesting to see if it applies to flood advisories as well. We often see impassable roads here with a Flood Advisory in effect because Flash Flood Warnings in my county warning area are reserved for the most serious flooding events.</p>\n",
 				"content_text": "MacRumors [reports that iOS 15 will route people around Flash Flood Warnings](https://www.macrumors.com/2021/07/27/ios-15-maps-weather-warnings-routes/). At first glance, this appears to be an extremely smart application of the Dark Sky acquisition. It will be interesting to see if this only applies to Flash Flood Warnings or other warning types. It would also be interesting to see if it applies to flood advisories as well. We often see impassable roads here with a Flood Advisory in effect because Flash Flood Warnings in my county warning area are reserved for the most serious flooding events.\n",
-				"date_published": "2021-07-27T08:36:05-04:00",
+				"date_published": "2021-07-27T07:36:05-05:00",
 				"url": "https://jaredwsmith.com/2021/07/27/macrumors-reports-that.html",
 				"tags": ["Tech","280","Links"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/07/25/new-shirt-a.html",
 				
-				"content_html": "<p><img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2021/0f9b02641b.png\" alt=\"AWIPS T-shirt\" title=\"awips-stack-trace – 0016 – Detail.png\" border=\"0\" width=\"600\" height=\"600\" /></p>\n\n<p>New shirt! A little more niche this go-around. Here&rsquo;s a wearable love letter to meteorologists&rsquo; favorite hunk of Java code anywhere, <a href=\"https://cottonbureau.com/products/awips-stack-trace#/10406600/tee-men-standard-tee-vintage-black-tri-blend-s\">AWIPS</a>.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>New shirt! A little more niche this go-around. Here&rsquo;s a wearable love letter to meteorologists' favorite hunk of Java code anywhere, <a href=\"https://cottonbureau.com/products/awips-stack-trace#/10406600/tee-men-standard-tee-vintage-black-tri-blend-s\">AWIPS</a>.</p>\n",
 				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2021/0f9b02641b.png\" alt=\"AWIPS T-shirt\" title=\"awips-stack-trace – 0016 – Detail.png\" border=\"0\" width=\"600\" height=\"600\" />\n\nNew shirt! A little more niche this go-around. Here's a wearable love letter to meteorologists' favorite hunk of Java code anywhere, [AWIPS](https://cottonbureau.com/products/awips-stack-trace#/10406600/tee-men-standard-tee-vintage-black-tri-blend-s).\n",
-				"date_published": "2021-07-25T10:55:53-04:00",
+				"date_published": "2021-07-25T09:55:53-05:00",
 				"url": "https://jaredwsmith.com/2021/07/25/new-shirt-a.html",
 				"tags": ["280"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/07/17/restart-and-reboot.html",
 				"title": "Restart and Reboot Yourself (Again)",
-				"content_html": "<p>A year ago, I decided to retire my long-standing WordPress setup for my personal blog and set up a <a href=\"https://jaredwsmith.github.io\">GitHub pages website</a> via Jekyll so that I could accomplish the highly esoteric and somewhat impractical goal of blogging entirely through <code>vim</code>. (Quarantine goals — when we thought the lockdown period would only be about 2-3 weeks — were naively lofty.)</p>\n\n<p>And as it turned out — as so many of my attempts to write on a consistent basis about something other than weather often do — it died on the vine after only five posts. I had the best of intentions, but some <a href=\"https://twitter.com/jaredwsmith\">habits</a> are hard to break.</p>\n\n<p>I&rsquo;ve had good luck with syndication for <a href=\"https://micro.blog/chswx\">@chswx here on micro.blog</a>. There are certainly kinks to work out, especially as it relates to how WordPress handles images and how that translates over to the service, but it has been pretty solid. But, still, some <a href=\"https://twitter.com/chswx\">habits</a> are hard to break. I&rsquo;m trying, though.</p>\n\n<p>At the same time, I&rsquo;ve wanted a place for a while now to briefly comment on links or other things that I&rsquo;ve found useful. However, when considering the cost-benefit analysis of spinning up and maintaining another WordPress install to handle that, it was like…nah. (And yes, I know about WordPress.com&rsquo;s hosted offering. It&rsquo;s good! But too much for what I&rsquo;m trying to do here.)</p>\n\n<p>So, here we are at <code>micro.blog</code>. I&rsquo;ve transitioned the domain name over, so jaredwsmith.com now resolves here (in case you haven&rsquo;t checked your address bar ;)). I&rsquo;m happy about this move for many reasons:</p>\n\n<ul>\n<li>The micro.blog client is good for posting quickly from the hip. I like that.</li>\n<li>$5/mo to handle mostly infrequent long-form writing peppered with a lot of short-form stuff is well worth it for not having to keep up with security patches on a self-hosted service. (And, it keeps the lights on here — micro.blog is a really important project for the indie Web!)</li>\n<li>I get to use my all-time favorite blogging tool again in MarsEdit.</li>\n<li>I get to write long-form within iA Writer and save the drafts up.</li>\n</ul>\n\n<p>In other words, I get to use really good software to do my writing, it is easily exportable and stays with me forever, and I don&rsquo;t have to deal with patches (yet can customize the living you-know-what out of this!) And, if I wanted to, I could still use <code>vim</code>.</p>\n\n<p>With the environmental stuff out of the way, it&rsquo;s once again back on the breaking-old-habits train. See you there?</p>\n",
+				"content_html": "<p>A year ago, I decided to retire my long-standing WordPress setup for my personal blog and set up a <a href=\"https://jaredwsmith.github.io\">GitHub pages website</a> via Jekyll so that I could accomplish the highly esoteric and somewhat impractical goal of blogging entirely through <code>vim</code>. (Quarantine goals — when we thought the lockdown period would only be about 2-3 weeks — were naively lofty.)</p>\n<p>And as it turned out — as so many of my attempts to write on a consistent basis about something other than weather often do — it died on the vine after only five posts. I had the best of intentions, but some <a href=\"https://twitter.com/jaredwsmith\">habits</a> are hard to break.</p>\n<p>I&rsquo;ve had good luck with syndication for <a href=\"https://micro.blog/chswx\">@chswx here on micro.blog</a>. There are certainly kinks to work out, especially as it relates to how WordPress handles images and how that translates over to the service, but it has been pretty solid. But, still, some <a href=\"https://twitter.com/chswx\">habits</a> are hard to break. I&rsquo;m trying, though.</p>\n<p>At the same time, I&rsquo;ve wanted a place for a while now to briefly comment on links or other things that I&rsquo;ve found useful. However, when considering the cost-benefit analysis of spinning up and maintaining another WordPress install to handle that, it was like…nah. (And yes, I know about WordPress.com&rsquo;s hosted offering. It&rsquo;s good! But too much for what I&rsquo;m trying to do here.)</p>\n<p>So, here we are at <code>micro.blog</code>. I&rsquo;ve transitioned the domain name over, so jaredwsmith.com now resolves here (in case you haven&rsquo;t checked your address bar ;)). I&rsquo;m happy about this move for many reasons:</p>\n<ul>\n<li>The micro.blog client is good for posting quickly from the hip. I like that.</li>\n<li>$5/mo to handle mostly infrequent long-form writing peppered with a lot of short-form stuff is well worth it for not having to keep up with security patches on a self-hosted service. (And, it keeps the lights on here — micro.blog is a really important project for the indie Web!)</li>\n<li>I get to use my all-time favorite blogging tool again in MarsEdit.</li>\n<li>I get to write long-form within iA Writer and save the drafts up.</li>\n</ul>\n<p>In other words, I get to use really good software to do my writing, it is easily exportable and stays with me forever, and I don&rsquo;t have to deal with patches (yet can customize the living you-know-what out of this!) And, if I wanted to, I could still use <code>vim</code>.</p>\n<p>With the environmental stuff out of the way, it&rsquo;s once again back on the breaking-old-habits train. See you there?</p>\n",
 				"content_text": "A year ago, I decided to retire my long-standing WordPress setup for my personal blog and set up a [GitHub pages website](https://jaredwsmith.github.io) via Jekyll so that I could accomplish the highly esoteric and somewhat impractical goal of blogging entirely through `vim`. (Quarantine goals — when we thought the lockdown period would only be about 2-3 weeks — were naively lofty.)\n\nAnd as it turned out — as so many of my attempts to write on a consistent basis about something other than weather often do — it died on the vine after only five posts. I had the best of intentions, but some [habits](https://twitter.com/jaredwsmith) are hard to break.\n\nI've had good luck with syndication for [@chswx here on micro.blog](https://micro.blog/chswx). There are certainly kinks to work out, especially as it relates to how WordPress handles images and how that translates over to the service, but it has been pretty solid. But, still, some [habits](https://twitter.com/chswx) are hard to break. I'm trying, though.\n\nAt the same time, I've wanted a place for a while now to briefly comment on links or other things that I've found useful. However, when considering the cost-benefit analysis of spinning up and maintaining another WordPress install to handle that, it was like…nah. (And yes, I know about WordPress.com's hosted offering. It's good! But too much for what I'm trying to do here.)\n\nSo, here we are at `micro.blog`. I've transitioned the domain name over, so jaredwsmith.com now resolves here (in case you haven't checked your address bar ;)). I'm happy about this move for many reasons:\n\n- The micro.blog client is good for posting quickly from the hip. I like that.\n- $5/mo to handle mostly infrequent long-form writing peppered with a lot of short-form stuff is well worth it for not having to keep up with security patches on a self-hosted service. (And, it keeps the lights on here — micro.blog is a really important project for the indie Web!)\n- I get to use my all-time favorite blogging tool again in MarsEdit.\n- I get to write long-form within iA Writer and save the drafts up.\n\nIn other words, I get to use really good software to do my writing, it is easily exportable and stays with me forever, and I don't have to deal with patches (yet can customize the living you-know-what out of this!) And, if I wanted to, I could still use `vim`.\n\nWith the environmental stuff out of the way, it's once again back on the breaking-old-habits train. See you there?\n",
-				"date_published": "2021-07-17T17:58:28-04:00",
+				"date_published": "2021-07-17T16:58:28-05:00",
 				"url": "https://jaredwsmith.com/2021/07/17/restart-and-reboot.html",
 				"tags": ["Meta"]
 			},
 			{
 				"id": "http://jaredwsmith.micro.blog/2021/07/17/safaris-totp-implementation.html",
 				"title": "Safari's TOTP implementation in version 15 is pretty cool, though more websites need to adapt to make it truly useful.",
-				"content_html": "<p>Just installed Monterey on my MBP and am giving the new Safari two-factor authentication magic a whirl. So far, mixed results for autofill from websites, but it&rsquo;s early. Where it does work, it&rsquo;s phenomenal.</p>\n\n<p>This post by Dan Moren from Six Colors helps you <a href=\"https://sixcolors.com/post/2021/07/migrating-2fa-codes-from-authy-to-apples-system/\">migrate Authy two-factor codes to Safari</a>. it is a little tedious, and depending on how your Authy is set up, it may require a little trial and error, but it <em>works</em> &ndash; a massive timesaver especially since I don&rsquo;t plan on additional migrations to Monterey or iOS 15 for a while yet.</p>\n",
+				"content_html": "<p>Just installed Monterey on my MBP and am giving the new Safari two-factor authentication magic a whirl. So far, mixed results for autofill from websites, but it&rsquo;s early. Where it does work, it&rsquo;s phenomenal.</p>\n<p>This post by Dan Moren from Six Colors helps you <a href=\"https://sixcolors.com/post/2021/07/migrating-2fa-codes-from-authy-to-apples-system/\">migrate Authy two-factor codes to Safari</a>. it is a little tedious, and depending on how your Authy is set up, it may require a little trial and error, but it <em>works</em> &ndash; a massive timesaver especially since I don&rsquo;t plan on additional migrations to Monterey or iOS 15 for a while yet.</p>\n",
 				"content_text": "Just installed Monterey on my MBP and am giving the new Safari two-factor authentication magic a whirl. So far, mixed results for autofill from websites, but it's early. Where it does work, it's phenomenal.\n\nThis post by Dan Moren from Six Colors helps you [migrate Authy two-factor codes to Safari](https://sixcolors.com/post/2021/07/migrating-2fa-codes-from-authy-to-apples-system/). it is a little tedious, and depending on how your Authy is set up, it may require a little trial and error, but it _works_ -- a massive timesaver especially since I don't plan on additional migrations to Monterey or iOS 15 for a while yet.\n",
-				"date_published": "2021-07-17T14:20:00-04:00",
+				"date_published": "2021-07-17T13:20:00-05:00",
 				"url": "https://jaredwsmith.com/2021/07/17/safaris-totp-implementation.html",
 				"tags": ["Tech"]
 			}
