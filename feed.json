@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2022/12/14/very-shallow-wedge.html",
+				
+				"content_html": "<p>Very shallow wedge inversion on the way to being eroded on the 00z sounding from KCHS this evening. Looks like the warm front is starting to move ashore now; temperatures have risen a degree or two in the last hour.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Very shallow wedge inversion on the way to being eroded on the 00z sounding from KCHS this evening. Looks like the warm front is starting to move ashore now; temperatures have risen a degree or two in the last hour.\n\n<img src=\"uploads/2022/89d0220a0b.png\" width=\"600\" height=\"379\" alt=\"\">\n",
+				"date_published": "2022-12-14T22:05:24-05:00",
+				"url": "https://jaredwsmith.com/2022/12/14/very-shallow-wedge.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2022/12/07/giving-marsedit-a.html",
 				
 				"content_html": "<p>Giving MarsEdit 5 a whirl from the new micropost screen.</p>\n",
