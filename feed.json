@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2022/12/22/respectable-elevated-instability.html",
+				
+				"content_html": "<p>Respectable elevated instability this morning from the 12z sounding from CHS supportive of some supercellular behavior if things really wanted to get feisty. Low pressure moving north of the area will move any severe threat with it, though. #chswx #fediwx</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Respectable elevated instability this morning from the 12z sounding from CHS supportive of some supercellular behavior if things really wanted to get feisty. Low pressure moving north of the area will move any severe threat with it, though. #chswx #fediwx\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2022/d8bc637e7d.png\" alt=\"AWIPS II perspective primarily focused on the 12z sounding from KCHS.\" title=\"Screenshot from 2022-12-22 08-13-36.png\" border=\"0\" width=\"2560\" height=\"1380\" />\n",
+				"date_published": "2022-12-22T08:24:35-05:00",
+				"url": "https://jaredwsmith.com/2022/12/22/respectable-elevated-instability.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2022/12/19/trying-external-display.html",
+				
+				"content_html": "<p>Trying external display mode on my iPad Pro (M1). It’s interesting…though probably more of a novelty than anything else. Early days for windowing on the iPad, that’s for sure.</p>\n",
+				"content_text": "Trying external display mode on my iPad Pro (M1). It’s interesting…though probably more of a novelty than anything else. Early days for windowing on the iPad, that’s for sure.\n",
+				"date_published": "2022-12-19T18:24:19-05:00",
+				"url": "https://jaredwsmith.com/2022/12/19/trying-external-display.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2022/12/17/its-above-so.html",
+				
+				"content_html": "<p>It’s above 60°, so the ice cream truck is making the rounds.</p>\n",
+				"content_text": "It’s above 60°, so the ice cream truck is making the rounds.\n",
+				"date_published": "2022-12-17T12:18:44-05:00",
+				"url": "https://jaredwsmith.com/2022/12/17/its-above-so.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2022/12/14/very-shallow-wedge.html",
 				
 				"content_html": "<p>Very shallow wedge inversion on the way to being eroded on the 00z sounding from KCHS this evening. Looks like the warm front is starting to move ashore now; temperatures have risen a degree or two in the last hour.</p>\n<!-- raw HTML omitted -->\n",
