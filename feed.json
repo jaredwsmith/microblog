@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2023/10/28/when-dnf-means.html",
+				"title": "When dnf means \"does not function\" in CentOS Stream thanks to large signature headers",
+				"content_html": "<p>There&rsquo;s a <!-- raw HTML omitted -->bug in rpm<!-- raw HTML omitted --> on Red Hat Enterprise Linux as well as some versions of CentOS Stream that can stop packages from installing. (Convenient, right?) You&rsquo;ll see messages such as <code>signature hdr data BAD</code> when trying to upgrade packages via <code>dnf</code>.</p>\n<p>This is how I ended up solving it:</p>\n<ul>\n<li>I&rsquo;d try to upgrade <code>rpm</code> in place via <code>dnf</code> using <code>dnf upgrade rpm</code>. This would fail, but it would cache the packages.</li>\n<li>Note the path to the cached packages. On my system, it was <code>/var/cache/dnf/baseos-9a27fc7471a8d219/packages/</code>, but yours may vary.</li>\n<li>Use <code>rpm</code> to force install the <code>rpm</code> and <code>rpm-libs</code> packages:\n<ul>\n<li><code>rpm -i --force /var/cache/dnf/baseos-9a27fc7471a8d219/packages/rpm-4.14.3-26.el8.x86_64.rpm</code></li>\n<li><code>rpm -i --force /var/cache/dnf/baseos-9a27fc7471a8d219/packages/rpm-libs-4.14.3-26.el8.x86_64.rpm</code></li>\n</ul>\n</li>\n<li>Then, try your <code>dnf install</code> or <code>dnf upgrade</code> procedure again, and it should be fine.</li>\n</ul>\n",
+				"content_text": "There's a <a href=\"https://bugzilla.redhat.com/show_bug.cgi?id=1993242\">bug in rpm</a> on Red Hat Enterprise Linux as well as some versions of CentOS Stream that can stop packages from installing. (Convenient, right?) You'll see messages such as `signature hdr data BAD` when trying to upgrade packages via `dnf`.\n\nThis is how I ended up solving it:\n\n- I'd try to upgrade `rpm` in place via `dnf` using `dnf upgrade rpm`. This would fail, but it would cache the packages.\n- Note the path to the cached packages. On my system, it was `/var/cache/dnf/baseos-9a27fc7471a8d219/packages/`, but yours may vary.\n- Use `rpm` to force install the `rpm` and `rpm-libs` packages:\n\t- `rpm -i --force /var/cache/dnf/baseos-9a27fc7471a8d219/packages/rpm-4.14.3-26.el8.x86_64.rpm`\n\t- `rpm -i --force /var/cache/dnf/baseos-9a27fc7471a8d219/packages/rpm-libs-4.14.3-26.el8.x86_64.rpm`\n- Then, try your `dnf install` or `dnf upgrade` procedure again, and it should be fine.\n",
+				"date_published": "2023-10-28T11:18:57-05:00",
+				"url": "https://jaredwsmith.com/2023/10/28/when-dnf-means.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2023/01/01/my-cocorahs-station.html",
+				
+				"content_html": "<p>My CoCoRaHS station recorded 61.37” of rain this past year, good for sixth wettest in Charleston County as well as in the NWS CHS CWFA. #chswx #climatology</p>\n",
+				"content_text": "My CoCoRaHS station recorded 61.37” of rain this past year, good for sixth wettest in Charleston County as well as in the NWS CHS CWFA. #chswx #climatology\n",
+				"date_published": "2023-01-01T12:26:15-05:00",
+				"url": "https://jaredwsmith.com/2023/01/01/my-cocorahs-station.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2023/01/01/000005.html",
 				
 				"content_html": "<p>&lsquo;23.</p>\n",
