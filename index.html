@@ -24,6 +24,42 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://jaredwsmith.com/2023/10/28/when-dnf-means.html">When dnf means &#34;does not function&#34; in CentOS Stream thanks to large signature headers</a></h1>
+		
+
+		<a href="https://jaredwsmith.com/2023/10/28/when-dnf-means.html" class="u-url"><time class="dt-published" datetime="2023-10-28 11:18:57 -0500">Oct 28, 2023</time></a>
+
+		<div class="e-content">
+			 <p>There&rsquo;s a <!-- raw HTML omitted -->bug in rpm<!-- raw HTML omitted --> on Red Hat Enterprise Linux as well as some versions of CentOS Stream that can stop packages from installing. (Convenient, right?) You&rsquo;ll see messages such as <code>signature hdr data BAD</code> when trying to upgrade packages via <code>dnf</code>.</p>
+<p>This is how I ended up solving it:</p>
+<ul>
+<li>I&rsquo;d try to upgrade <code>rpm</code> in place via <code>dnf</code> using <code>dnf upgrade rpm</code>. This would fail, but it would cache the packages.</li>
+<li>Note the path to the cached packages. On my system, it was <code>/var/cache/dnf/baseos-9a27fc7471a8d219/packages/</code>, but yours may vary.</li>
+<li>Use <code>rpm</code> to force install the <code>rpm</code> and <code>rpm-libs</code> packages:
+<ul>
+<li><code>rpm -i --force /var/cache/dnf/baseos-9a27fc7471a8d219/packages/rpm-4.14.3-26.el8.x86_64.rpm</code></li>
+<li><code>rpm -i --force /var/cache/dnf/baseos-9a27fc7471a8d219/packages/rpm-libs-4.14.3-26.el8.x86_64.rpm</code></li>
+</ul>
+</li>
+<li>Then, try your <code>dnf install</code> or <code>dnf upgrade</code> procedure again, and it should be fine.</li>
+</ul>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://jaredwsmith.com/2023/01/01/my-cocorahs-station.html" class="u-url"><time class="dt-published" datetime="2023-01-01 12:26:15 -0500">Jan 1, 2023</time></a>
+
+		<div class="e-content">
+			 <p>My CoCoRaHS station recorded 61.37” of rain this past year, good for sixth wettest in Charleston County as well as in the NWS CHS CWFA. #chswx #climatology</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://jaredwsmith.com/2023/01/01/000005.html" class="u-url"><time class="dt-published" datetime="2023-01-01 00:00:05 -0500">Jan 1, 2023</time></a>
 
