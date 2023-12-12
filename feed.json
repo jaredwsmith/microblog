@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2023/12/11/how-to-get.html",
+				"title": "How to get around “Apple ID settings update” issues with Contact Key Verification",
+				"content_html": "<p>If you are stuck on a “needs Apple ID settings update” error on a device while trying to enable Contact Key verification in iOS 17.2, disable iMessage on the affected device(s), enroll, and re-enable it.</p>\n",
+				"content_text": "If you are stuck on a “needs Apple ID settings update” error on a device while trying to enable Contact Key verification in iOS 17.2, disable iMessage on the affected device(s), enroll, and re-enable it.\n",
+				"date_published": "2023-12-11T20:12:14-05:00",
+				"url": "https://jaredwsmith.com/2023/12/11/how-to-get.html"
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2023/11/11/eight-aint-enough.html",
 				"title": "Eight ain't enough",
 				"content_html": "<p>Nobody asked, but I do have a small contribution to the <!-- raw HTML omitted -->8GB RAM on MacBook Pro in the year of our lord 2023<!-- raw HTML omitted --> discourse. (Coherence not 100% guaranteed.)</p>\n<p>My first Apple silicon machine was a Mac mini M1 with 8GB of unified memory. I was quite pleased with its performance (and probably still would be!) especially compared to the 2015 MBP it replaced. However, I definitely ran into bottlenecks with my &ldquo;pro&rdquo; workflows with that little memory available. And when I hit those bottlenecks, it <em>hurt</em>: the system would become unresponsive, with beachballing and even the cursor becoming rather jumpy. It got to the point where I&rsquo;d have to shut down Docker in order to run OBS, for instance&hellip;and I just grew weary of that limitation pretty quickly. (I&rsquo;d at least feel like I could hit them, though, without feeling like the computer was about to launch into outer space, unlike the Intel machine!)</p>\n<p>I traded it in for a Mac mini M2 Pro with 32 GB RAM when that model was introduced earlier this year, and I&rsquo;ve not hit a hiccup since. I&rsquo;ve been comfortable editing relatively complex GIS files, Docker containers, OBS&hellip;you name it, it runs it, and it runs it well. The Pro chip probably helps, but I know everything can fit because it&rsquo;s got plenty of memory to work with.</p>\n<p>I think there are a surprising amount of things that folks who get a base M3 with 8GB of RAM can do. I don&rsquo;t totally poo-poo the notion that Apple Silicon can more efficiently manage memory, either &ndash; that M1 could certainly do quite a bit more multitasking more responsively than the Intel equivalent with the same RAM. And, of course, there&rsquo;s the disclaimer that my workflow is generally out of the ordinary. But I still think that &ldquo;Pro&rdquo; means more than a base level of memory. Apple Silicon is pretty cool, but it can&rsquo;t defy the foundational principles of computer science, either.</p>\n",
