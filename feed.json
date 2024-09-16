@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2024/09/16/and-so-concludes.html",
+				
+				"content_html": "<p>And so concludes probably the most head-scratching tropical storm warning we’ve had here in quite some time.</p>\n",
+				"content_text": "And so concludes probably the most head-scratching tropical storm warning we’ve had here in quite some time.\n",
+				"date_published": "2024-09-16T11:02:11-04:00",
+				"url": "https://jaredwsmith.com/2024/09/16/and-so-concludes.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2024/09/09/this-long-day.html",
+				
+				"content_html": "<p>This long day of meetings is brought to you by Purity Ring and coffee.</p>\n",
+				"content_text": "This long day of meetings is brought to you by Purity Ring and coffee.\n",
+				"date_published": "2024-09-09T09:22:11-04:00",
+				"url": "https://jaredwsmith.com/2024/09/09/this-long-day.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2024/08/29/iphone-mirroring-in.html",
 				"title": "Praise for iPhone Mirroring in iOS 18 and macOS Sequoia",
 				"content_html": "<p>iPhone Mirroring in macOS Sequoia is very, very, very good. There&rsquo;s not too much in the initial release of Sequoia and iOS 18 that I really care about, but this is one of those very nice quality of life improvements you didn&rsquo;t know you needed until you got it.</p>\n<p>I&rsquo;ve been really impressed with how many of the details are just right. For instance, notifications that come through native to the Mac do not duplicate from the iPhone. That is huge in and of itself; could&rsquo;ve been a real deal-breaker for folks! Being able to take action on notifications right from the Mac is a spot that Apple could have very easily half-assed, but they saw it through properly not only with opening the correct app on the mirrored iPhone when clicking on a notification, but also allowing for quick actions on the notification without invoking the Mirroring interface.</p>\n<p>In future releases, I&rsquo;d love the ability to invoke the Control Center from the Mac. I&rsquo;d also like to see the notification about iPhone Mirroring being invoked collapse automatically when the phone is in StandBy mode. (It feels like it did this initially &ndash; not sure if I tweaked a setting that ultimately caused this behavior to change.) But beyond that&hellip;there&rsquo;s not much I&rsquo;d choose to improve at this point from my relatively limited (~2 weeks) experience with it.</p>\n",
@@ -72,7 +90,7 @@
 				"id": "http://jaredwsmith.micro.blog/2022/12/22/respectable-elevated-instability.html",
 				
 				"content_html": "<p>Respectable elevated instability this morning from the 12z sounding from CHS supportive of some supercellular behavior if things really wanted to get feisty. Low pressure moving north of the area will move any severe threat with it, though. #chswx #fediwx</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Respectable elevated instability this morning from the 12z sounding from CHS supportive of some supercellular behavior if things really wanted to get feisty. Low pressure moving north of the area will move any severe threat with it, though. #chswx #fediwx\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2022/d8bc637e7d.png\" alt=\"AWIPS II perspective primarily focused on the 12z sounding from KCHS.\" title=\"Screenshot from 2022-12-22 08-13-36.png\" border=\"0\" width=\"2560\" height=\"1380\" />\n",
+				"content_text": "Respectable elevated instability this morning from the 12z sounding from CHS supportive of some supercellular behavior if things really wanted to get feisty. Low pressure moving north of the area will move any severe threat with it, though. #chswx #fediwx\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2022/d8bc637e7d.png\" alt=\"AWIPS II perspective primarily focused on the 12z sounding from KCHS.\" title=\"Screenshot from 2022-12-22 08-13-36.png\" border=\"0\" width=\"2560\" height=\"1380\" />\n",
 				"date_published": "2022-12-22T09:24:35-04:00",
 				"url": "https://jaredwsmith.com/2022/12/22/respectable-elevated-instability.html",
 				"tags": ["280"]
@@ -99,7 +117,7 @@
 				"id": "http://jaredwsmith.micro.blog/2022/12/14/very-shallow-wedge.html",
 				
 				"content_html": "<p>Very shallow wedge inversion on the way to being eroded on the 00z sounding from KCHS this evening. Looks like the warm front is starting to move ashore now; temperatures have risen a degree or two in the last hour.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Very shallow wedge inversion on the way to being eroded on the 00z sounding from KCHS this evening. Looks like the warm front is starting to move ashore now; temperatures have risen a degree or two in the last hour.\n\n<img src=\"uploads/2022/89d0220a0b.png\" width=\"600\" height=\"379\" alt=\"\">\n",
+				"content_text": "Very shallow wedge inversion on the way to being eroded on the 00z sounding from KCHS this evening. Looks like the warm front is starting to move ashore now; temperatures have risen a degree or two in the last hour.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2022/89d0220a0b.png\" width=\"600\" height=\"379\" alt=\"\">\n",
 				"date_published": "2022-12-14T23:05:24-04:00",
 				"url": "https://jaredwsmith.com/2022/12/14/very-shallow-wedge.html",
 				"tags": ["280"]
@@ -117,7 +135,7 @@
 				"id": "http://jaredwsmith.micro.blog/2022/11/18/i-rescued-my.html",
 				
 				"content_html": "<p>I rescued my Tumblr account and unearthed this gem. A very young Charlie Brown, think he&rsquo;s about a year and a half here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I rescued my Tumblr account and unearthed this gem. A very young Charlie Brown, think he's about a year and a half here.\n\n<img src=\"uploads/2022/e201c74e78.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
+				"content_text": "I rescued my Tumblr account and unearthed this gem. A very young Charlie Brown, think he's about a year and a half here.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2022/e201c74e78.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
 				"date_published": "2022-11-18T15:19:08-04:00",
 				"url": "https://jaredwsmith.com/2022/11/18/i-rescued-my.html",
 				"tags": ["280"]
@@ -250,7 +268,7 @@
 				"id": "http://jaredwsmith.micro.blog/2021/08/29/ida-is-getting.html",
 				
 				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
+				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
 				"date_published": "2021-08-29T00:28:11-04:00",
 				"url": "https://jaredwsmith.com/2021/08/29/ida-is-getting.html",
 				"tags": ["280"]
@@ -321,7 +339,7 @@
 				"id": "http://jaredwsmith.micro.blog/2021/08/09/hybrid-black-halo.html",
 				
 				"content_html": "<p>Hybrid Black Halo box set acquired.</p>\n<p>I had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hybrid Black Halo box set acquired.\n\nI had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.\n\n<img src=\"uploads/2021/d92fb9cf30.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Hybrid Black Halo box set acquired.\n\nI had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2021/d92fb9cf30.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-09T19:40:00-04:00",
 				"url": "https://jaredwsmith.com/2021/08/09/hybrid-black-halo.html",
 				"tags": ["280","Music"]
@@ -348,7 +366,7 @@
 				"id": "http://jaredwsmith.micro.blog/2021/08/03/rejected-chswx-tweetsmicroblogs.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Rejected @chswx tweets/microblogs: &ldquo;Do you <em>really</em> like long walks on the beach? Prove it.&rdquo;</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2021/acb262c271.png\" alt=\"Kclx 20210803 1235 BR 0 4\" title=\"kclx_20210803_1235_BR_0.4.png\" border=\"0\" width=\"959\" height=\"480\" />\n\nRejected @chswx tweets/microblogs: \"Do you _really_ like long walks on the beach? Prove it.\"\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2021/acb262c271.png\" alt=\"Kclx 20210803 1235 BR 0 4\" title=\"kclx_20210803_1235_BR_0.4.png\" border=\"0\" width=\"959\" height=\"480\" />\n\nRejected @chswx tweets/microblogs: \"Do you _really_ like long walks on the beach? Prove it.\"\n",
 				"date_published": "2021-08-03T08:38:44-04:00",
 				"url": "https://jaredwsmith.com/2021/08/03/rejected-chswx-tweetsmicroblogs.html",
 				"tags": ["Meta","280"]
@@ -375,7 +393,7 @@
 				"id": "http://jaredwsmith.micro.blog/2021/07/25/new-shirt-a.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>New shirt! A little more niche this go-around. Here&rsquo;s a wearable love letter to meteorologists' favorite hunk of Java code anywhere, <a href=\"https://cottonbureau.com/products/awips-stack-trace#/10406600/tee-men-standard-tee-vintage-black-tri-blend-s\">AWIPS</a>.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2021/0f9b02641b.png\" alt=\"AWIPS T-shirt\" title=\"awips-stack-trace – 0016 – Detail.png\" border=\"0\" width=\"600\" height=\"600\" />\n\nNew shirt! A little more niche this go-around. Here's a wearable love letter to meteorologists' favorite hunk of Java code anywhere, [AWIPS](https://cottonbureau.com/products/awips-stack-trace#/10406600/tee-men-standard-tee-vintage-black-tri-blend-s).\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2021/0f9b02641b.png\" alt=\"AWIPS T-shirt\" title=\"awips-stack-trace – 0016 – Detail.png\" border=\"0\" width=\"600\" height=\"600\" />\n\nNew shirt! A little more niche this go-around. Here's a wearable love letter to meteorologists' favorite hunk of Java code anywhere, [AWIPS](https://cottonbureau.com/products/awips-stack-trace#/10406600/tee-men-standard-tee-vintage-black-tri-blend-s).\n",
 				"date_published": "2021-07-25T10:55:53-04:00",
 				"url": "https://jaredwsmith.com/2021/07/25/new-shirt-a.html",
 				"tags": ["280"]
