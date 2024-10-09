@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2024/10/09/milton-and-i.html",
+				
+				"content_html": "<p>Milton and I don&rsquo;t exactly see eye to eye.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Milton and I don't exactly see eye to eye.\n\n<img src=\"uploads/2024/screenshot-2024-10-09-18-48-27.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
+				"date_published": "2024-10-09T18:50:03-04:00",
+				"url": "https://jaredwsmith.com/2024/10/09/milton-and-i.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2024/09/16/and-so-concludes.html",
 				
 				"content_html": "<p>And so concludes probably the most head-scratching tropical storm warning we’ve had here in quite some time.</p>\n",
