@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2024/11/23/if-i-ever.html",
+				
+				"content_html": "<p>If I ever find myself back in academia, this is how I&rsquo;m writing my papers. Only way I can truly feel like I&rsquo;ve achieved the &ldquo;in-school&rdquo; mindset.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "If I ever find myself back in academia, this is how I'm writing my papers. Only way I can truly feel like I've achieved the \"in-school\" mindset.\n\n<img src=\"uploads/2024/screenshot-2024-11-23-at-3.40.52pm.png\" alt=\"A screenshot of Microsoft Word 97 running on Windows NT 4.0 within a virtual machine on my MacBook Pro. Clippy is swaying within his box in the bottom left corner, anxiously awaiting my next command.\" width=\"600\" height=\"449\" />\n",
+				"date_published": "2024-11-23T15:43:31-05:00",
+				"url": "https://jaredwsmith.com/2024/11/23/if-i-ever.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2024/11/21/ive-not-been.html",
+				
+				"content_html": "<p>I’ve not been paying much attention to Threads lately, and the growth-hacking notifications have definitely been picking up steam. If there’s one thing Meta knows, it’s how to sound desperate when you ignore one of its platforms.</p>\n",
+				"content_text": "I’ve not been paying much attention to Threads lately, and the growth-hacking notifications have definitely been picking up steam. If there’s one thing Meta knows, it’s how to sound desperate when you ignore one of its platforms.\n",
+				"date_published": "2024-11-21T22:04:00-05:00",
+				"url": "https://jaredwsmith.com/2024/11/21/ive-not-been.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2024/11/19/instead-of-sleeping.html",
+				
+				"content_html": "<p>Instead of sleeping at a reasonable hour, I’m considering consolidating my personal fediverse presence on micro.blog to get the benefits of using my domain. Will want to migrate my Mastodon following and the like. Probably worth investigating during my holiday time off. (NERD.)</p>\n",
+				"content_text": "Instead of sleeping at a reasonable hour, I’m considering consolidating my personal fediverse presence on micro.blog to get the benefits of using my domain. Will want to migrate my Mastodon following and the like. Probably worth investigating during my holiday time off. (NERD.)\n",
+				"date_published": "2024-11-19T23:50:00-05:00",
+				"url": "https://jaredwsmith.com/2024/11/19/instead-of-sleeping.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2024/11/17/cracked-open-the.html",
 				
 				"content_html": "<p>Cracked open the chswxbot parser this weekend for the first time in a while. Starting to add some more metadata parsing for each product. This effort begins with the coastal flood products, hopefully making those automated alerts more useful.</p>\n<p>I also need to do some better character-limit wrangling with the influx of folks to Bluesky. You get used to having 500 chars available here. (I’ve already baked in the concept of variable limits, of course, so Mastodon’s support remains first-class!)</p>\n",
