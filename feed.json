@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2024/11/29/folks-its-the.html",
+				
+				"content_html": "<p>Folks, it’s The Holiday Season™.</p>\n",
+				"content_text": "Folks, it’s The Holiday Season™.\n",
+				"date_published": "2024-11-29T09:34:39-05:00",
+				"url": "https://jaredwsmith.com/2024/11/29/folks-its-the.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2024/11/23/if-i-ever.html",
 				
 				"content_html": "<p>If I ever find myself back in academia, this is how I&rsquo;m writing my papers. Only way I can truly feel like I&rsquo;ve achieved the &ldquo;in-school&rdquo; mindset.</p>\n<!-- raw HTML omitted -->\n",
@@ -46,7 +55,7 @@
 				"id": "http://jaredwsmith.micro.blog/2024/10/09/milton-and-i.html",
 				
 				"content_html": "<p>Milton and I don&rsquo;t exactly see eye to eye.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Milton and I don't exactly see eye to eye.\n\n<img src=\"uploads/2024/screenshot-2024-10-09-18-48-27.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
+				"content_text": "Milton and I don't exactly see eye to eye.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2024/screenshot-2024-10-09-18-48-27.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
 				"date_published": "2024-10-09T17:50:03-05:00",
 				"url": "https://jaredwsmith.com/2024/10/09/milton-and-i.html",
 				"tags": ["280"]
