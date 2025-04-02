@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2025/04/02/really-impressive-line-of-discrete.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Really impressive line of discrete supercells on the Memphis radar.</p>\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2025/70f0cbac-fdd0-4000-9cf1-af47fc59ba86.png\" alt=\"National Weather Service radar from Memphis depicting a quasi-linear convective system and several tornado-capable supercells ahead of the line.\" title=\"70F0CBAC-FDD0-4000-9CF1-AF47FC59BA86.png\" border=\"0\" />\n\nReally impressive line of discrete supercells on the Memphis radar.\n",
+				"date_published": "2025-04-02T19:24:17-04:00",
+				"url": "https://jaredwsmith.com/2025/04/02/really-impressive-line-of-discrete.html",
+				"tags": ["280","Weather"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2025/03/29/much-happier-with-the-mac.html",
+				
+				"content_html": "<p>Much happier with the Mac Studio after making the decision to move forward with a fresh setup. Didn&rsquo;t realize just how many barnacles I had accumulated with the prior install &ndash; everything is just smoother and better.</p>\n",
+				"content_text": "Much happier with the Mac Studio after making the decision to move forward with a fresh setup. Didn't realize just how many barnacles I had accumulated with the prior install -- everything is just smoother and better.\n",
+				"date_published": "2025-03-29T00:26:31-04:00",
+				"url": "https://jaredwsmith.com/2025/03/29/much-happier-with-the-mac.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2025/03/28/now-that-i-had-a.html",
+				
+				"content_html": "<p>Now that I had a few minutes to import my Mastodon follows, Micro.blog is really taking shape quite nicely as my primary Fediverse presence. Kudos to <a href=\"https://micro.blog/manton\">@manton</a> for how he&rsquo;s rapidly evolved his product to be a first-class Fediverse citizen.</p>\n",
+				"content_text": "Now that I had a few minutes to import my Mastodon follows, Micro.blog is really taking shape quite nicely as my primary Fediverse presence. Kudos to [@manton](https://micro.blog/manton) for how he's rapidly evolved his product to be a first-class Fediverse citizen.\n",
+				"date_published": "2025-03-28T13:55:42-04:00",
+				"url": "https://jaredwsmith.com/2025/03/28/now-that-i-had-a.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2025/03/28/if-it-aint-broke.html",
 				"title": "If it ain't broke...",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
