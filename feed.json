@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2025/04/26/one-tough-part-of-having.html",
+				
+				"content_html": "<p>One tough part of having a side project that is actually operational and relied-upon is that I can&rsquo;t always just try new things on a whim. Like, I need things to work and work reliably. Might need a side project from the side project.</p>\n",
+				"content_text": "One tough part of having a side project that is actually operational and relied-upon is that I can't always just try new things on a whim. Like, I need things to work and work reliably. Might need a side project from the side project.\n",
+				"date_published": "2025-04-26T13:23:25-04:00",
+				"url": "https://jaredwsmith.com/2025/04/26/one-tough-part-of-having.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2025/04/06/but-i-dont-wanna-do.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Oh do I feel this so much.</p>\n",
