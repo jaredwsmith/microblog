@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2025/06/15/kind-of-unreal-that-ipados.html",
+				
+				"content_html": "<p>Kind of unreal that iPadOS 26, with its focus on upgraded multitasking, still doesn’t have a way to create a shortcut that runs when connecting a Smart Keyboard. I just want to switch multitasking modes when a keyboard is connected vs. when it isn’t. Too much to ask?</p>\n",
+				"content_text": "Kind of unreal that iPadOS 26, with its focus on upgraded multitasking, still doesn’t have a way to create a shortcut that runs when connecting a Smart Keyboard. I just want to switch multitasking modes when a keyboard is connected vs. when it isn’t. Too much to ask?\n",
+				"date_published": "2025-06-15T21:35:40-04:00",
+				"url": "https://jaredwsmith.com/2025/06/15/kind-of-unreal-that-ipados.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2025/04/26/one-tough-part-of-having.html",
 				
 				"content_html": "<p>One tough part of having a side project that is actually operational and relied-upon is that I can&rsquo;t always just try new things on a whim. Like, I need things to work and work reliably. Might need a side project from the side project.</p>\n",
