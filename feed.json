@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2025/06/20/pleasantly-surprised-to-find-that.html",
+				
+				"content_html": "<p>Pleasantly surprised to find that iMessage junk filtering is available in iOS 18.6 beta. Hope it doesn&rsquo;t get axed during this cycle &ndash; genuinely great to get this now ahead of iOS 26 this summer.</p>\n",
+				"content_text": "Pleasantly surprised to find that iMessage junk filtering is available in iOS 18.6 beta. Hope it doesn't get axed during this cycle -- genuinely great to get this now ahead of iOS 26 this summer.\n",
+				"date_published": "2025-06-20T21:12:02-04:00",
+				"url": "https://jaredwsmith.com/2025/06/20/pleasantly-surprised-to-find-that.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2025/06/20/am-i-the-only-person.html",
+				
+				"content_html": "<p>Am I the only person who still sends primarily plaintext emails?</p>\n",
+				"content_text": "Am I the only person who still sends primarily plaintext emails?\n",
+				"date_published": "2025-06-20T15:09:53-04:00",
+				"url": "https://jaredwsmith.com/2025/06/20/am-i-the-only-person.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2025/06/15/kind-of-unreal-that-ipados.html",
 				
 				"content_html": "<p>Kind of unreal that iPadOS 26, with its focus on upgraded multitasking, still doesn’t have a way to create a shortcut that runs when connecting a Smart Keyboard. I just want to switch multitasking modes when a keyboard is connected vs. when it isn’t. Too much to ask?</p>\n",
@@ -37,7 +55,7 @@
 				"id": "http://jaredwsmith.micro.blog/2025/04/02/look-out-kpah.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Look out, KPAH&hellip;</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2025/ff9e5be1-159e-4f9a-ab4a-4fecf52a820d.png\" alt=\"Four-panel view of reflectivity, storm-relative velocity, base velocity, and correlation coefficient from the KPAH weather radar showing a tight tornadic circulation approaching the radar site.\" title=\"FF9E5BE1-159E-4F9A-AB4A-4FECF52A820D.png\" border=\"0\" />\n\nLook out, KPAH...\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2025/ff9e5be1-159e-4f9a-ab4a-4fecf52a820d.png\" alt=\"Four-panel view of reflectivity, storm-relative velocity, base velocity, and correlation coefficient from the KPAH weather radar showing a tight tornadic circulation approaching the radar site.\" title=\"FF9E5BE1-159E-4F9A-AB4A-4FECF52A820D.png\" border=\"0\" />\n\nLook out, KPAH...\n",
 				"date_published": "2025-04-02T21:23:00-04:00",
 				"url": "https://jaredwsmith.com/2025/04/02/look-out-kpah.html",
 				"tags": ["280","Weather"]
@@ -46,7 +64,7 @@
 				"id": "http://jaredwsmith.micro.blog/2025/04/02/really-impressive-line-of-discrete.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Really impressive line of discrete supercells on the Memphis radar.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2025/70f0cbac-fdd0-4000-9cf1-af47fc59ba86.png\" alt=\"National Weather Service radar from Memphis depicting a quasi-linear convective system and several tornado-capable supercells ahead of the line.\" title=\"70F0CBAC-FDD0-4000-9CF1-AF47FC59BA86.png\" border=\"0\" />\n\nReally impressive line of discrete supercells on the Memphis radar.\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2025/70f0cbac-fdd0-4000-9cf1-af47fc59ba86.png\" alt=\"National Weather Service radar from Memphis depicting a quasi-linear convective system and several tornado-capable supercells ahead of the line.\" title=\"70F0CBAC-FDD0-4000-9CF1-AF47FC59BA86.png\" border=\"0\" />\n\nReally impressive line of discrete supercells on the Memphis radar.\n",
 				"date_published": "2025-04-02T19:24:17-04:00",
 				"url": "https://jaredwsmith.com/2025/04/02/really-impressive-line-of-discrete.html",
 				"tags": ["280","Weather"]
