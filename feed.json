@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2025/08/01/i-give-it-two-weeks.html",
+				
+				"content_html": "<p>I give it two weeks before I upgrade everything to the 26 series of Apple releases now that we are likely moving into weekly betas soon.</p>\n",
+				"content_text": "I give it two weeks before I upgrade everything to the 26 series of Apple releases now that we are likely moving into weekly betas soon.\n",
+				"date_published": "2025-08-01T11:00:24-04:00",
+				"url": "https://jaredwsmith.com/2025/08/01/i-give-it-two-weeks.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2025/07/05/til-installing-qgis-from-macports.html",
+				
+				"content_html": "<p>TIL installing QGIS from MacPorts builds it from source locally, giving you a native Apple Silicon build that is so, so, so much faster.</p>\n",
+				"content_text": "TIL installing QGIS from MacPorts builds it from source locally, giving you a native Apple Silicon build that is so, so, so much faster.\n",
+				"date_published": "2025-07-05T16:54:36-04:00",
+				"url": "https://jaredwsmith.com/2025/07/05/til-installing-qgis-from-macports.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2025/07/05/windows-would-decide-to-no.html",
+				
+				"content_html": "<p>Windows <em>would</em> decide to no longer display any mouse pointer, even after a restart, with a tropical system nearby.</p>\n",
+				"content_text": "Windows *would* decide to no longer display any mouse pointer, even after a restart, with a tropical system nearby.\n",
+				"date_published": "2025-07-05T16:17:31-04:00",
+				"url": "https://jaredwsmith.com/2025/07/05/windows-would-decide-to-no.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2025/07/02/note-to-future-me-the.html",
 				
 				"content_html": "<p>Note to future me:</p>\n<p>The morning walks are great. Keep going.</p>\n",
