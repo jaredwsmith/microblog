@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2025/08/02/i-rotate-through-monospaced-typefaces.html",
+				
+				"content_html": "<p>I rotate through monospaced typefaces on occasion, and I&rsquo;m back into Monaco. I just love this font, and wish Apple would upgrade it with true bold, italic, and maybe even some Powerline glyphs.</p>\n",
+				"content_text": "I rotate through monospaced typefaces on occasion, and I'm back into Monaco. I just love this font, and wish Apple would upgrade it with true bold, italic, and maybe even some Powerline glyphs.\n",
+				"date_published": "2025-08-02T14:01:46-04:00",
+				"url": "https://jaredwsmith.com/2025/08/02/i-rotate-through-monospaced-typefaces.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2025/08/01/i-give-it-two-weeks.html",
 				
 				"content_html": "<p>I give it two weeks before I upgrade everything to the 26 series of Apple releases now that we are likely moving into weekly betas soon.</p>\n",
