@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2025/08/16/the-sometimesleftjustified-title-bars-in.html",
+				
+				"content_html": "<p>The sometimes-left-justified title bars in macOS 26 are breaking my brain. I usually get used to things fairly quickly, but they just look wrong and non-Mac-like.</p>\n",
+				"content_text": "The sometimes-left-justified title bars in macOS 26 are breaking my brain. I usually get used to things fairly quickly, but they just look wrong and non-Mac-like.\n",
+				"date_published": "2025-08-16T11:51:52-04:00",
+				"url": "https://jaredwsmith.com/2025/08/16/the-sometimesleftjustified-title-bars-in.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2025/08/02/i-rotate-through-monospaced-typefaces.html",
 				
 				"content_html": "<p>I rotate through monospaced typefaces on occasion, and I&rsquo;m back into Monaco. I just love this font, and wish Apple would upgrade it with true bold, italic, and maybe even some Powerline glyphs.</p>\n",
@@ -55,7 +64,7 @@
 				"id": "http://jaredwsmith.micro.blog/2025/06/24/just-a-tad-bit-of.html",
 				
 				"content_html": "<p>Just a tad bit of an inversion this morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just a tad bit of an inversion this morning.\n\n<img src=\"uploads/2025/image.png\" width=\"324\" height=\"600\" alt=\"RadarScope screenshot depicting ducting and interference on the KCLX radar. A Skew-T log-P diagram is superimposed, showing 1,189 J/kg of CAPE and 195 J/kg of CIN (convective inhibition). The latter number helps to demonstrate the strength of the inversion contributing to the radar anomalies. (No, this is not weather modification.)\">\n",
+				"content_text": "Just a tad bit of an inversion this morning.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2025/image.png\" width=\"324\" height=\"600\" alt=\"RadarScope screenshot depicting ducting and interference on the KCLX radar. A Skew-T log-P diagram is superimposed, showing 1,189 J/kg of CAPE and 195 J/kg of CIN (convective inhibition). The latter number helps to demonstrate the strength of the inversion contributing to the radar anomalies. (No, this is not weather modification.)\">\n",
 				"date_published": "2025-06-24T08:39:57-04:00",
 				"url": "https://jaredwsmith.com/2025/06/24/just-a-tad-bit-of.html",
 				"tags": ["280"]
@@ -196,19 +205,10 @@
 				"tags": ["280"]
 			},
 			{
-				"id": "http://jaredwsmith.micro.blog/2025/01/09/the-apple-studio-display-a.html",
-				"title": "The Apple Studio Display, A Few Years Later",
-				"content_html": "<!-- raw HTML omitted -->\n<p>Personal nerd and poor financial decision milestones were achieved today: I got a VESA-mountable Apple Studio Display to pair with my M2 Pro Mac mini. This is my first-ever Apple desktop display of my own. It&rsquo;s been just a few hours, and I haven&rsquo;t had much time with it, but so far, so good. I&rsquo;m coming from a 27&quot; 4K LG monitor that I was upscaling to 5K to get more breathing room in the UI, and there&rsquo;s definitely an improvement not only in text sharpness, but even in system graphics performance now that the GPU doesn&rsquo;t have to upconvert every UI frame.</p>\n<p>Interestingly, with the Studio Display supporting True Tone, I thought for sure that it would go into a color temperature mismatch with my secondary 24&quot; LG 4K display. That&rsquo;s not the case, though: the True Tone support on the Studio Display also extends out to the monitor that doesn&rsquo;t support it. That&rsquo;s pretty nifty, IMO.</p>\n<p>I&rsquo;ve not really used the webcam yet (though my tests show that the firmware updates seem to have helped at least in my environment). The speakers are excellent, though, and I&rsquo;m looking forward to trying the microphone on calls.</p>\n<p>Having the three USB 3.1 ports available is quite nice, with plenty of bandwidth to go around. I have both of my FaceCams (one a FaceCam Pro, another a FaceCam Mk. 2) plugged into the monitor now, and I&rsquo;m getting hitch-free uncompressed video from both. In the previous configuration, the hub on the LG monitor only supported USB2 speeds because I was using DisplayPort-over-USB, so I got MJPEG compression from the Mk. 2. The Pro was plugged directly into the Mac. The other bright side here is that I was able to free up a Thunderbolt 4 port directly on the Mac.</p>\n<p>If there&rsquo;s one caveat, I think it&rsquo;s the panel&rsquo;s response time &ndash; feels like my LG was a little quicker in this department. But it&rsquo;s not a dealbreaker as I really don&rsquo;t do any hardcore gaming on this machine. I leave that to the iMac G3 in the kitchen. :)</p>\n<!-- raw HTML omitted -->",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2025/img-5844.jpeg\" alt=\"A poor photo of the Apple Studio Display box.\" title=\"IMG_5844.jpeg\" border=\"0\" width=\"2016\" height=\"1512\" />\n\nPersonal nerd and poor financial decision milestones were achieved today: I got a VESA-mountable Apple Studio Display to pair with my M2 Pro Mac mini. This is my first-ever Apple desktop display of my own. It's been just a few hours, and I haven't had much time with it, but so far, so good. I'm coming from a 27\" 4K LG monitor that I was upscaling to 5K to get more breathing room in the UI, and there's definitely an improvement not only in text sharpness, but even in system graphics performance now that the GPU doesn't have to upconvert every UI frame.\n\n<!--more-->\n\nInterestingly, with the Studio Display supporting True Tone, I thought for sure that it would go into a color temperature mismatch with my secondary 24\" LG 4K display. That's not the case, though: the True Tone support on the Studio Display also extends out to the monitor that doesn't support it. That's pretty nifty, IMO.\n\nI've not really used the webcam yet (though my tests show that the firmware updates seem to have helped at least in my environment). The speakers are excellent, though, and I'm looking forward to trying the microphone on calls.\n\nHaving the three USB 3.1 ports available is quite nice, with plenty of bandwidth to go around. I have both of my FaceCams (one a FaceCam Pro, another a FaceCam Mk. 2) plugged into the monitor now, and I'm getting hitch-free uncompressed video from both. In the previous configuration, the hub on the LG monitor only supported USB2 speeds because I was using DisplayPort-over-USB, so I got MJPEG compression from the Mk. 2. The Pro was plugged directly into the Mac. The other bright side here is that I was able to free up a Thunderbolt 4 port directly on the Mac.\n\nIf there's one caveat, I think it's the panel's response time -- feels like my LG was a little quicker in this department. But it's not a dealbreaker as I really don't do any hardcore gaming on this machine. I leave that to the iMac G3 in the kitchen. :)\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2025/img-5350.jpeg\" alt=\"\" title=\"IMG_5350.jpeg\" border=\"0\" width=\"3024\" height=\"4032\" />\n",
-				"date_published": "2025-01-10T00:40:41-04:00",
-				"url": "https://jaredwsmith.com/2025/01/09/the-apple-studio-display-a.html",
-				"tags": ["Tech","Personal"]
-			},
-			{
 				"id": "http://jaredwsmith.micro.blog/2025/01/08/the-hollywood-hills-fire-is.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>The Hollywood Hills fire is showing up on the Fire Temperature RGB product from GOES-West. Not good.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2025/outgoing.png\" alt=\"Fire temperature RGB satellite product from GOES-West depicting hotspots in the Los Angeles metro where fires are burning.\" title=\"outgoing.png\" border=\"0\" width=\"1920\" height=\"1080\" />\n\nThe Hollywood Hills fire is showing up on the Fire Temperature RGB product from GOES-West. Not good.\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2025/outgoing.png\" alt=\"Fire temperature RGB satellite product from GOES-West depicting hotspots in the Los Angeles metro where fires are burning.\" title=\"outgoing.png\" border=\"0\" width=\"1920\" height=\"1080\" />\n\nThe Hollywood Hills fire is showing up on the Fire Temperature RGB product from GOES-West. Not good.\n",
 				"date_published": "2025-01-08T22:29:46-04:00",
 				"url": "https://jaredwsmith.com/2025/01/08/the-hollywood-hills-fire-is.html",
 				"tags": ["280"]
@@ -226,7 +226,7 @@
 				"id": "http://jaredwsmith.micro.blog/2025/01/07/just-a-casual-mph-wind.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Just a casual 85 MPH wind gust earlier northeast of Los Angeles earlier this evening. Unfortunately, the worst fears around wildfire conditions are verifying here.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2025/ksox-20250108-0327-cc-0.4.png\" alt=\"Ksox 20250108 0327 CC 0.4.\" title=\"ksox_20250108_0327_CC_0.4.png\" border=\"0\" width=\"1838\" height=\"1038\" />\n\nJust a casual 85 MPH wind gust earlier northeast of Los Angeles earlier this evening. Unfortunately, the worst fears around wildfire conditions are verifying here.\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2025/ksox-20250108-0327-cc-0.4.png\" alt=\"Ksox 20250108 0327 CC 0.4.\" title=\"ksox_20250108_0327_CC_0.4.png\" border=\"0\" width=\"1838\" height=\"1038\" />\n\nJust a casual 85 MPH wind gust earlier northeast of Los Angeles earlier this evening. Unfortunately, the worst fears around wildfire conditions are verifying here.\n",
 				"date_published": "2025-01-08T00:35:40-04:00",
 				"url": "https://jaredwsmith.com/2025/01/07/just-a-casual-mph-wind.html",
 				"tags": ["280"]
@@ -271,7 +271,7 @@
 				"id": "http://jaredwsmith.micro.blog/2024/11/23/if-i-ever.html",
 				
 				"content_html": "<p>If I ever find myself back in academia, this is how I&rsquo;m writing my papers. Only way I can truly feel like I&rsquo;ve achieved the &ldquo;in-school&rdquo; mindset.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If I ever find myself back in academia, this is how I'm writing my papers. Only way I can truly feel like I've achieved the \"in-school\" mindset.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2024/screenshot-2024-11-23-at-3.40.52pm.png\" alt=\"A screenshot of Microsoft Word 97 running on Windows NT 4.0 within a virtual machine on my MacBook Pro. Clippy is swaying within his box in the bottom left corner, anxiously awaiting my next command.\" width=\"600\" height=\"449\" />\n",
+				"content_text": "If I ever find myself back in academia, this is how I'm writing my papers. Only way I can truly feel like I've achieved the \"in-school\" mindset.\n\n<img src=\"uploads/2024/screenshot-2024-11-23-at-3.40.52pm.png\" alt=\"A screenshot of Microsoft Word 97 running on Windows NT 4.0 within a virtual machine on my MacBook Pro. Clippy is swaying within his box in the bottom left corner, anxiously awaiting my next command.\" width=\"600\" height=\"449\" />\n",
 				"date_published": "2024-11-23T16:43:31-04:00",
 				"url": "https://jaredwsmith.com/2024/11/23/if-i-ever.html",
 				"tags": ["280"]
@@ -307,7 +307,7 @@
 				"id": "http://jaredwsmith.micro.blog/2024/10/09/milton-and-i.html",
 				
 				"content_html": "<p>Milton and I don&rsquo;t exactly see eye to eye.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Milton and I don't exactly see eye to eye.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2024/screenshot-2024-10-09-18-48-27.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
+				"content_text": "Milton and I don't exactly see eye to eye.\n\n<img src=\"uploads/2024/screenshot-2024-10-09-18-48-27.png\" alt=\"\" width=\"1920\" height=\"1080\" />\n",
 				"date_published": "2024-10-09T18:50:03-04:00",
 				"url": "https://jaredwsmith.com/2024/10/09/milton-and-i.html",
 				"tags": ["280"]
@@ -396,7 +396,7 @@
 				"id": "http://jaredwsmith.micro.blog/2022/12/22/respectable-elevated-instability.html",
 				
 				"content_html": "<p>Respectable elevated instability this morning from the 12z sounding from CHS supportive of some supercellular behavior if things really wanted to get feisty. Low pressure moving north of the area will move any severe threat with it, though. #chswx #fediwx</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Respectable elevated instability this morning from the 12z sounding from CHS supportive of some supercellular behavior if things really wanted to get feisty. Low pressure moving north of the area will move any severe threat with it, though. #chswx #fediwx\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2022/d8bc637e7d.png\" alt=\"AWIPS II perspective primarily focused on the 12z sounding from KCHS.\" title=\"Screenshot from 2022-12-22 08-13-36.png\" border=\"0\" width=\"2560\" height=\"1380\" />\n",
+				"content_text": "Respectable elevated instability this morning from the 12z sounding from CHS supportive of some supercellular behavior if things really wanted to get feisty. Low pressure moving north of the area will move any severe threat with it, though. #chswx #fediwx\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2022/d8bc637e7d.png\" alt=\"AWIPS II perspective primarily focused on the 12z sounding from KCHS.\" title=\"Screenshot from 2022-12-22 08-13-36.png\" border=\"0\" width=\"2560\" height=\"1380\" />\n",
 				"date_published": "2022-12-22T09:24:35-04:00",
 				"url": "https://jaredwsmith.com/2022/12/22/respectable-elevated-instability.html",
 				"tags": ["280"]
@@ -423,7 +423,7 @@
 				"id": "http://jaredwsmith.micro.blog/2022/12/14/very-shallow-wedge.html",
 				
 				"content_html": "<p>Very shallow wedge inversion on the way to being eroded on the 00z sounding from KCHS this evening. Looks like the warm front is starting to move ashore now; temperatures have risen a degree or two in the last hour.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Very shallow wedge inversion on the way to being eroded on the 00z sounding from KCHS this evening. Looks like the warm front is starting to move ashore now; temperatures have risen a degree or two in the last hour.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2022/89d0220a0b.png\" width=\"600\" height=\"379\" alt=\"\">\n",
+				"content_text": "Very shallow wedge inversion on the way to being eroded on the 00z sounding from KCHS this evening. Looks like the warm front is starting to move ashore now; temperatures have risen a degree or two in the last hour.\n\n<img src=\"uploads/2022/89d0220a0b.png\" width=\"600\" height=\"379\" alt=\"\">\n",
 				"date_published": "2022-12-14T23:05:24-04:00",
 				"url": "https://jaredwsmith.com/2022/12/14/very-shallow-wedge.html",
 				"tags": ["280"]
@@ -441,7 +441,7 @@
 				"id": "http://jaredwsmith.micro.blog/2022/11/18/i-rescued-my.html",
 				
 				"content_html": "<p>I rescued my Tumblr account and unearthed this gem. A very young Charlie Brown, think he&rsquo;s about a year and a half here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I rescued my Tumblr account and unearthed this gem. A very young Charlie Brown, think he's about a year and a half here.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2022/e201c74e78.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
+				"content_text": "I rescued my Tumblr account and unearthed this gem. A very young Charlie Brown, think he's about a year and a half here.\n\n<img src=\"uploads/2022/e201c74e78.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
 				"date_published": "2022-11-18T15:19:08-04:00",
 				"url": "https://jaredwsmith.com/2022/11/18/i-rescued-my.html",
 				"tags": ["280"]
@@ -574,7 +574,7 @@
 				"id": "http://jaredwsmith.micro.blog/2021/08/29/ida-is-getting.html",
 				
 				"content_html": "<p>Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
+				"content_text": "Ida is getting it together at absolutely the wrong time for New Orleans, and it doesn’t look like much will get in its way at this point through landfall. I don’t like it one bit for a whole host of reasons, but especially because it looked once again like there was no plan.\n\n<img src=\"uploads/2021/6c230ccac0.jpg\" width=\"600\" height=\"419\" alt=\"\" />\n",
 				"date_published": "2021-08-29T00:28:11-04:00",
 				"url": "https://jaredwsmith.com/2021/08/29/ida-is-getting.html",
 				"tags": ["280"]
@@ -645,7 +645,7 @@
 				"id": "http://jaredwsmith.micro.blog/2021/08/09/hybrid-black-halo.html",
 				
 				"content_html": "<p>Hybrid Black Halo box set acquired.</p>\n<p>I had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hybrid Black Halo box set acquired.\n\nI had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.\n\n<img src=\"https://cdn.uploads.micro.blog/46605/2021/d92fb9cf30.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Hybrid Black Halo box set acquired.\n\nI had to buy a SuperDrive to listen to and import these CDs. Completely worth it — Hybrid is quality.\n\n<img src=\"uploads/2021/d92fb9cf30.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-09T19:40:00-04:00",
 				"url": "https://jaredwsmith.com/2021/08/09/hybrid-black-halo.html",
 				"tags": ["280","Music"]
@@ -672,7 +672,7 @@
 				"id": "http://jaredwsmith.micro.blog/2021/08/03/rejected-chswx-tweetsmicroblogs.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Rejected @chswx tweets/microblogs: &ldquo;Do you <em>really</em> like long walks on the beach? Prove it.&rdquo;</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2021/acb262c271.png\" alt=\"Kclx 20210803 1235 BR 0 4\" title=\"kclx_20210803_1235_BR_0.4.png\" border=\"0\" width=\"959\" height=\"480\" />\n\nRejected @chswx tweets/microblogs: \"Do you _really_ like long walks on the beach? Prove it.\"\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2021/acb262c271.png\" alt=\"Kclx 20210803 1235 BR 0 4\" title=\"kclx_20210803_1235_BR_0.4.png\" border=\"0\" width=\"959\" height=\"480\" />\n\nRejected @chswx tweets/microblogs: \"Do you _really_ like long walks on the beach? Prove it.\"\n",
 				"date_published": "2021-08-03T08:38:44-04:00",
 				"url": "https://jaredwsmith.com/2021/08/03/rejected-chswx-tweetsmicroblogs.html",
 				"tags": ["Meta","280"]
@@ -699,7 +699,7 @@
 				"id": "http://jaredwsmith.micro.blog/2021/07/25/new-shirt-a.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>New shirt! A little more niche this go-around. Here&rsquo;s a wearable love letter to meteorologists' favorite hunk of Java code anywhere, <a href=\"https://cottonbureau.com/products/awips-stack-trace#/10406600/tee-men-standard-tee-vintage-black-tri-blend-s\">AWIPS</a>.</p>\n",
-				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://cdn.uploads.micro.blog/46605/2021/0f9b02641b.png\" alt=\"AWIPS T-shirt\" title=\"awips-stack-trace – 0016 – Detail.png\" border=\"0\" width=\"600\" height=\"600\" />\n\nNew shirt! A little more niche this go-around. Here's a wearable love letter to meteorologists' favorite hunk of Java code anywhere, [AWIPS](https://cottonbureau.com/products/awips-stack-trace#/10406600/tee-men-standard-tee-vintage-black-tri-blend-s).\n",
+				"content_text": "<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://jaredwsmith.com/uploads/2021/0f9b02641b.png\" alt=\"AWIPS T-shirt\" title=\"awips-stack-trace – 0016 – Detail.png\" border=\"0\" width=\"600\" height=\"600\" />\n\nNew shirt! A little more niche this go-around. Here's a wearable love letter to meteorologists' favorite hunk of Java code anywhere, [AWIPS](https://cottonbureau.com/products/awips-stack-trace#/10406600/tee-men-standard-tee-vintage-black-tri-blend-s).\n",
 				"date_published": "2021-07-25T10:55:53-04:00",
 				"url": "https://jaredwsmith.com/2021/07/25/new-shirt-a.html",
 				"tags": ["280"]
