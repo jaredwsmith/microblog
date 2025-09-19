@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2025/09/18/qgis-mac-users-take-note.html",
+				
+				"content_html": "<p>QGIS Mac users, take note: The LTR version, at least, will not install on Tahoe right now from MacPorts due to problems with <a href=\"https://trac.macports.org/ticket/73016\">qt5-qtlocation</a> and <a href=\"https://trac.macports.org/ticket/73013\">py313-fiona</a>. (Hopefully I don&rsquo;t find more problems once these are fixed!)</p>\n",
+				"content_text": "QGIS Mac users, take note: The LTR version, at least, will not install on Tahoe right now from MacPorts due to problems with [qt5-qtlocation](https://trac.macports.org/ticket/73016) and [py313-fiona](https://trac.macports.org/ticket/73013). (Hopefully I don't find more problems once these are fixed!)\n",
+				"date_published": "2025-09-18T23:13:54-04:00",
+				"url": "https://jaredwsmith.com/2025/09/18/qgis-mac-users-take-note.html",
+				"tags": ["280"]
+			},
+			{
+				"id": "http://jaredwsmith.micro.blog/2025/09/15/fully-upgraded-to-the-release.html",
+				
+				"content_html": "<p>Fully upgraded to the 26 release versions, save for my work computer which is getting 18.7 while MacPorts and the like get sorted out.</p>\n",
+				"content_text": "Fully upgraded to the 26 release versions, save for my work computer which is getting 18.7 while MacPorts and the like get sorted out.\n",
+				"date_published": "2025-09-15T19:58:39-04:00",
+				"url": "https://jaredwsmith.com/2025/09/15/fully-upgraded-to-the-release.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2025/09/15/the-ios-betas-tend-to.html",
 				
 				"content_html": "<p>The iOS betas tend to refocus my release day excitement toward third party apps adopting the year’s new SDK. Especially interesting this year with the UI changes and how apps will blend their design language with Liquid Glass.</p>\n",
