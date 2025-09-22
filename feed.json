@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jaredwsmith.micro.blog/2025/09/22/tahoe-is-already-showing-quite.html",
+				
+				"content_html": "<p>Tahoe 26.1 is already showing quite a performance improvement over 26.0 on my M1 Pro MBP. Hoping this sustains throughout the beta cycle.</p>\n",
+				"content_text": "Tahoe 26.1 is already showing quite a performance improvement over 26.0 on my M1 Pro MBP. Hoping this sustains throughout the beta cycle.\n",
+				"date_published": "2025-09-22T14:39:33-04:00",
+				"url": "https://jaredwsmith.com/2025/09/22/tahoe-is-already-showing-quite.html",
+				"tags": ["280"]
+			},
+			{
 				"id": "http://jaredwsmith.micro.blog/2025/09/18/qgis-mac-users-take-note.html",
 				
 				"content_html": "<p>QGIS Mac users, take note: The LTR version, at least, will not install on Tahoe right now from MacPorts due to problems with <a href=\"https://trac.macports.org/ticket/73016\">qt5-qtlocation</a> and <a href=\"https://trac.macports.org/ticket/73013\">py313-fiona</a>. (Hopefully I don&rsquo;t find more problems once these are fixed!)</p>\n",
